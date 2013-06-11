@@ -1,0 +1,1016 @@
+osm_id,name,religion,denomination,type
+290182386,Abbazia del Goleto,,,point
+210266383,S. Giovanni,,,polygon
+162470253,S. Maria dei Raccomandati,,,polygon
+45407666,Statua della madonna,,,polygon
+83080051,Chiesa di San Martino,,,polygon
+132523031,Santa Maria della Salute,,,polygon
+2166887289,Chiesa,,,point
+164908482,Le pie donne,,,polygon
+205681391,Oratorio salesiano S.Giusto,,,polygon
+162430582,Eremo di Sant'Alberto,,,polygon
+165491994,Ex chiesa di San Vittore,,,polygon
+54881865,Capella Cimitero,,,polygon
+1944932058,Chiesa Collegiata di San Giovanni Battista,,,point
+1928641605,Ai Caduti della Balconia,,,point
+164908479,Cappella della Fuga in Egitto,,,polygon
+1722158543,Santa Maria,,,point
+197239309,Sacello dei Santi Martiri,,,polygon
+182992858,Chiesetta,,,polygon
+69184323,San Ulderico,,,polygon
+1944792540,Chiesa della Beata Vergine delle Grazie,,,point
+200916252,Santuario Madonna del Sasso,,,polygon
+122244924,Basilica S. Bassiano,,,polygon
+1340063776,Altare,,,point
+2308187999,Chiesa s.Marta,,,point
+181442767,San Pietro,,,polygon
+164958728,Oratorio Anzilotti,,,polygon
+166230360,Chiesa di San Martino a Carcheri,,,polygon
+2036648045,Chiesa di S. Martino,,,point
+1425051497,Parrocchia Santissima Trinità,,,point
+2158926494,Ex oratorio della Santissima Trinità,,,point
+173623515,Chiesa,,,polygon
+-2078954,Sacra Famiglia,,,polygon
+1944950171,Chiesa di Caprignone,,,point
+45274219,S. Erasmo,,,polygon
+1251037335,Monastero del Corpus Domini,,,point
+1223131226,Chiesa di San Gennaro,,,point
+347414222,Chiesa di S.Abbondio,,,point
+222475004,S. Antonio Abate,,,polygon
+120360051,Clarisse,,,polygon
+571669416,Castellina,,,point
+164908493,Casa di Pilato,,,polygon
+205681387,Chiesa Parrocchiale Donada,,,polygon
+166230361,Chiesa di Sant'Anna,,,polygon
+154216565,Santa Maria della Corla,,,polygon
+2110838903,S. Maria Maddalena,,,point
+154078887,Cattolica,,,polygon
+167306205,Chiesa di San Domenico,,,polygon
+161212128,Valle Bona,,,polygon
+146181272,Madonna del Carmine,,,polygon
+149057321,San Rocco,,,polygon
+1532952585,Chiesa di Agna,,,point
+986549725,Parrocchia Santa Famiglia,,,point
+170168040,Santuario Madonna di Ripoli,,,polygon
+196119082,Madonna dell'Ulivo,,,polygon
+162609507,Chiesa di Santa Maria Alemanna,,,polygon
+2160053686,Ex oratorio di Sant'Albino,,,point
+119326003,SS. Pietro e Costanzo,,,polygon
+91570133,San Michele di Coronata,,,polygon
+200514087,Chiesa S. Sebastiano,,,polygon
+160711256,Ossario,,,polygon
+114133811,Santo Stefano,,,polygon
+1978988158,Chiesa del Sacro Cuore di Gesu,,,point
+404728794,Duomo,,,point
+216190781,Chiesa San Filippo,,,polygon
+214395295,Chiesa Madonna del Carmelo,,,polygon
+189037527,Chiesa S.Maria Assunta (Fiumana Predappio),,,polygon
+1869575962,Chiesa di Santa Chiara,,,point
+178598991,San Sisto,,,polygon
+179713272,Chiesa Parrocchiale di Bannone,,,polygon
+1927625871,Cappelletta S. Antonio,,,point
+204635135,Monastero di Santa Maria di Mili,,,polygon
+223323680,Chiesa di S. Frediano,,,polygon
+59056263,Ex Chiesa di San Francesco,,,polygon
+184277050,Badia Fiesolana,,,polygon
+172136257,Santa Maria della Consolazione,,,polygon
+135921531,Chiesa,,,polygon
+178223752,Chiesa di Nostra Signora del Rosario,,,polygon
+476369512,Chiesa di San Nicola dei Greci,,,point
+873840222,Capitello,,,point
+99550955,Cimitero di San Martino,,,polygon
+97574389,Abbazia dei Santi Salvatore e Cirino,,,polygon
+1575159424,San Francesco,,,point
+164908484,Cappella dell'Annunciazione,,,polygon
+2286605436,Mad.na del Carmine,,,point
+192322458,Cappella Madonna dei Campi,,,polygon
+186611225,Cappella Pepe,,,polygon
+1111783450,Seminario,,,point
+114178618,Chiesa di San Sfirio,,,polygon
+743538658,S. Maria d.Giglio,,,point
+222438092,Casa del Clero,,,polygon
+133990522,Villa San Tommaso,,,polygon
+1531012591,Chiesa di Rubano,,,point
+105253618,Oratorio di San Gaetano,,,polygon
+164908490,Casa di Anna,,,polygon
+167134796,Madonna del Murazzo,,,polygon
+130468098,Chiesa di S.Rocco,,,polygon
+910811358,Monastero di San Nicola,,,point
+174374378,Cappella di Sant'Ambrogio alla Rocca,,,polygon
+204981316,Casa Generalizia Figlie della Carità Canossiane,,,polygon
+2149401552,Cappelletta degli alpini,,,point
+2074517447,San Paolo,,,point
+2305618817,Cappella dei Bucci,,,point
+873705806,MADONNA DEI PRATI,,,point
+792879290,Capitello,,,point
+119820946,Santuario Madonna del Piastraio,,,polygon
+149053922,S. Giovanni Nepomuceno,,,polygon
+200673497,chiesa di san Pasquale,,,polygon
+2161249844,Chiesa di Caonada,,,point
+299162805,Instituto opere antoniane di maria bambina,,,point
+50147601,Monastero S. Benedetto,,,polygon
+1732954523,Chiesa Sant'Agostino,,,point
+1426052373,San Giacomo,,,point
+188278612,Chiesa di S. Teresa,,,polygon
+428291735,Capp.la Boucharle,,,point
+428291743,Capp.la S.Giusto,,,point
+888367491,Capitello - Sant'Antonio,,,point
+1763673267,Chiesa Pardesca Vecchia,,,point
+1898922108,Chiesa di S.Anna,,,point
+210285106,Chiesa Madre,,,polygon
+45407736,CIMITERO,,,polygon
+178063248,Chiesa di Santa Maria del Mare,,,polygon
+135162910,Ehrenmal des ehemalig.k.u.k.I.Rgt.No.30,,,polygon
+1924876555,Chiesa Vigalfo,,,point
+1789857762,Madonna,,,point
+185988247,Chiesa di Sant'Erasmo,,,polygon
+1831565654,Chiesetta Santa Christina,,,point
+221342963,San Rocco,,,polygon
+24734727,Chiesa San Leonardo,,,polygon
+165096593,San Leonardo,,,polygon
+619112357,Chiesa di San Rocco,,,point
+183218570,Chiesa S.Stefano,,,polygon
+206293616,San Leonardo,,,polygon
+795661220,La Madonnella,,,point
+211314422,Chiesa di Vanzone,,,polygon
+154068059,Monastero ortodosso di San Giovanni Therestis,,,polygon
+1201765032,La Canonica di Valcarecce,,,point
+215220625,Missionari redentoristi - Colle di Sant'Alfonso,,,polygon
+145667235,Chiesa San Pietro Caveoso,,,polygon
+814823218,Santuario dell'Eremo,,,point
+154767164,Chiesa di San Germano,,,polygon
+95537272,Orsanmichele,,,polygon
+1495482533,Chiesa di Altissimo,,,point
+205667035,Santa Maria di Monte Casoli,,,polygon
+173642915,Cappella del Podio,,,polygon
+1310788511,San Martino,,,point
+211516675,chiesetta del Calvario,,,polygon
+135775819,Chiesa,,,polygon
+2309821703,Parrocchia Sant'Anna,,,point
+209221681,Chiesa Maria SS. delle Grazie,,,polygon
+223379540,Chisa Di Craiscana,,,polygon
+164690176,San Giovanni Battista,,,polygon
+2040304319,Chiesa,,,point
+120159212,Crocefisso della Macchia,,,polygon
+158280125,Madonna del Rio,,,polygon
+36685998,ex chiesa di San Gregorio,,,polygon
+1775959527,Oratorio della Madonnina,,,point
+183599769,Chiesa,,,polygon
+186287135,Salice,,,polygon
+184637574,Monastero di San Silvestro,,,polygon
+89073496,San Martino,,,polygon
+1231079338,Chiesa di San Giovanni,,,point
+205508265,Madonna dell'Ulivo,,,polygon
+146594175,San Paolo al Monte,,,polygon
+147741083,Capitello di Sant'Antonio,,,polygon
+428291734,Capp.la Cote Rouge,,,point
+873831335,Capitello,,,point
+1762399187,Parrocchia Ss. Nome Di Gesu',,,point
+1462609966,Chiesa di Abbazia Pisani,,,point
+109066906,Chiesa di San Michele del Gesù,,,polygon
+99314778,Chiesa di San Frediano,,,polygon
+167305603,Chiesa S.M. Pomposa,,,polygon
+179585459,Santa Lucia,,,polygon
+119457312,Chiesa di Santa Maria de La Cetina,,,polygon
+145938109,Chiesetta di San Giacomo,,,polygon
+1436202983,S. Maria del Piano,,,point
+2040309239,Chiesa di Pagnolle,,,point
+165992790,Chiesetta della Maternità di Maria,,,polygon
+827778471,Chiesa di Monte Catone,,,point
+124450122,Chiesa Parrocchiale Santa Maria delle Grazie,,,polygon
+2222879540,Madonna Dell'Albero,,,point
+194774555,Chiesa S. Gavino Martire,,,polygon
+221023566,S. Rosalia,,,polygon
+162366850,San Michele Arcangelo,,,polygon
+590910268,Madona della neve,,,point
+428173333,Covento S. Maria del Giglio,,,point
+183130831,Chiesa della Beata Vergine Assunta,,,polygon
+1161141350,cemetery,,,point
+2235404740,San Bernardo di Chiaravalle,,,point
+303970408,Santuario Bruceta,,,point
+1120722394,Maddalena,,,point
+215554676,Monastero di Santa Maria di Betlem,,,polygon
+162060917,Santa Croce,,,polygon
+166729124,Pieve,,,polygon
+206004082,Madonna della Gelata,,,polygon
+99550964,Cimitero di Carpena,,,polygon
+1775566485,Cappella di Sant'Anna,,,point
+164908486,Cappella di San Giacomo minore,,,polygon
+79241018,Cappella di San Grato,,,polygon
+781843893,S.Antonio,,,point
+48917308,Chiesa di San Mauro,,,polygon
+167278505,Policlinico di Modena,,,polygon
+96559981,Chiesa di San Pietro a Cedda,,,polygon
+1696842952,Madonna di Gree,,,point
+164908501,Cappella dalla Madonna dello spasimo,,,polygon
+154202104,Certosa di Serra San Bruno,,,line
+222477034,S. Francesco,,,polygon
+221852228,Chiesa Santa Maria Nascente,,,polygon
+178541833,San Luca,,,polygon
+69900515,Chiesa dei SS. Pietro e Paolo,,,polygon
+110331115,Corma degli Ordieri,,,polygon
+183252071,Chiesa S. Maria,,,polygon
+1669198127,Calvario,,,point
+2166004313,Cesano,,,point
+1776168567,Chiesa di S. Francesco,,,point
+218714568,Madonna della Guardia,,,polygon
+164908494,Cappella di Simone Fariseo,,,polygon
+290029340,St. Vigil,,,point
+2056384917,Parrocchia Santa Maria degli Angeli,,,point
+1893926989,chiesa,,,point
+753786829,San Rocco,,,point
+771375517,Capitello,,,point
+168272292,Church,,,polygon
+1815948389,Eremo San Michele,,,point
+218453745,Monastero di Sant'Agostino,,,polygon
+182027159,Chiesa Santa Maria Immacolata,,,polygon
+138956483,Chiesa parrocchiale S. Bartolomeo,,,polygon
+147741215,San Floriano,,,polygon
+986521741,Parrocchia del Sacro Cuore,,,point
+198765762,Chiesa,,,polygon
+46852935,Ex Convento della Santissima Trinità,,,polygon
+199570114,Chiesa Sant Edith Stein,,,polygon
+182027411,Chiesa di Sant'Orso,,,polygon
+1428097209,Chiesa del Rosario,,,point
+1845256495,Chiesa San Domenico,,,point
+142804854,Santa Maria in Organo,,,polygon
+205240191,San Giacomo e Sant'Anna,,,polygon
+154202450,Santa Maria del bosco,,,polygon
+198565936,Santa Lucia,,,polygon
+1321424879,chiesa Sant'Agostino,,,point
+1856749860,Santa Maria dei Fossi,,,point
+1922171898,Santuario,,,point
+158355008,San Giovanni Battista,,,polygon
+58880132,Parrocchia Santa Maria Regina degli Apostoli alla Montagnola,,,polygon
+1133891713,Cimitero nuovo,,,point
+166734074,Oratorio di Madonna dell'Oppio,,,polygon
+105262871,Parrocchia di Don Giovanni Battista,,,polygon
+156085885,Chiesa di Ronchidoso,,,polygon
+679194944,Chiesetta dell'Assunta,,,point
+169041826,Chiesa di San Pietro,,,polygon
+836515971,Sant Elena,,,point
+221808106,Chiesa di San Pietro,,,polygon
+185056269,S. Giovanni,,,polygon
+1839762511,Chiesa Santa Lucia,,,point
+116673497,Kirche Rabenstein,,,polygon
+167378306,Chiesa parrocchiale Sant'Orsola,,,polygon
+60096129,Chiesa e Convento di San Bonaventura,,,polygon
+762368275,Capitello,,,point
+166729233,Chiesa di Recovato,,,polygon
+124722275,Santuario Santa Maria di Valverde,,,polygon
+172145903,Chiesa di San Giorgio,,,polygon
+1585739709,San Pantaleo,,,point
+289473900,St. Prokulus,,,point
+1178918670,Abbazia S. Giovanni in Argentella,,,point
+160080819,Convento frati francescani,,,polygon
+71907277,Chiesa di San Claudio,,,polygon
+763544583,S.Lorenzino,,,point
+1601765660,Chiesa della Madonna,,,point
+2018203635,Chiesa della Visitazione,,,point
+2040241811,S.Maria,,,point
+1590504015,Santa Maria del Rosario,,,point
+185080137,Sv. Marija,,,polygon
+198095377,Ex Chiesa di Santa Maria Bambina,,,polygon
+218056989,"Centro di Spiritualità e Cultura ""Don Paolo Chiavacci""",,,polygon
+158966175,Chiesa Madonna della Salute,,,polygon
+2161676408,Ex chiesa di Sant'Antonio,,,point
+223318430,Chisa Di Craiscana,,,polygon
+152396705,Cappella Regina Pacis,,,polygon
+192771154,Chiesa Della SS.ma Annunziata,,,polygon
+174467768,Maria Immacolata Ausiliatrice,,,polygon
+2038000172,Chiesa di San Sebastiano,,,point
+-1771245,Convento Suore Brignoline,,,polygon
+154993982,Tempio dei Suffragi,,,polygon
+120673622,Sacrario Militare,,,polygon
+1836506004,Chiesa San Francesco Da Paola,,,point
+756617458,oratorio,,,point
+175845204,Chiesa,,,polygon
+1879583914,San Francesco,,,point
+134652625,Abbazia di S. Michele Arcangelo,,,polygon
+1944932029,Chiesa San Agostino,,,point
+1839732270,Cimitero,,,point
+168470463,Chiesa di Migliara,,,polygon
+574279810,chiesa,,,point
+1743974634,capitello,,,point
+222483168,S. Leonardo,,,polygon
+178063247,Chiesa della Madonna di Bonaria,,,polygon
+168722222,Madonna di San Siro,,,polygon
+180008742,Kapelle,,,polygon
+149977338,Sala del Regno dei Testimoni di Geova,,,polygon
+162733814,Cattedrale di San Pietro,,,polygon
+30300315,Istituto religioso,,,polygon
+145700208,Chiesa di San Tommaso,,,polygon
+185969435,San Salvatore in Summano,,,polygon
+1890328546,San Domenico,,,point
+87793709,Chiesa di Santa Chiara,,,polygon
+2205957447,Basilica dei Fieschi,,,point
+164908495,Cappella del Santo Sepolcro,,,polygon
+167305897,Madonna Del Voto,,,polygon
+100607575,San Giovanni in Venere,,,polygon
+1851987562,Statua Madonna Nera,,,point
+160982893,San Bernardo,,,polygon
+31298050,Chiesa Madre,,,point
+1069308863,Pfarrkirche Rabland,,,point
+180322131,Chiesa di Santa Croce,,,polygon
+201236757,Cattedrale,,,polygon
+143257252,Chiesa di S.Maria Perlungo,,,polygon
+47356089,Comunità degli Stimmatini di Sezano,,,polygon
+184081478,Cattedrale Santa Maria Assunta di Gerace,,,polygon
+165543458,Via Cristoforo Colombo,,,roads
+204047240,Sant'Andrea,,,polygon
+72612530,Santo Stefano,,,polygon
+158946241,Museo Civico - Lapidiraio di Montagnana,,,polygon
+618059929,Duomo di Chieri,,,point
+172392661,Duomo di Stilo,,,polygon
+897042767,Capitello (Madonna),,,point
+158829075,Santella,,,polygon
+185982721,Madonna del Lago Nero,,,polygon
+163145159,Convento,,,polygon
+161898411,Chiesa di San Benedetto,,,polygon
+209037296,Duomo ala n°1,,,polygon
+209037325,Duomo ala n°3,,,polygon
+31297918,Chiesa di San Rocco,,,point
+503443918,Chiesa di San Lorenzo,,,point
+102551255,Santo Stefano di Sessano,,,polygon
+722366011,Madonna di Lampedusa,,,point
+43550170,Cappella di San Marchese,,,polygon
+1133996718,Cimitero,,,point
+1157383673,Madonnella,,,point
+134084587,Parrocchia Sacra Famiglia in Rogoredo,,,polygon
+2181231241,Chiesa dell'Assunta,,,point
+191736779,Ss. Donato e Carpoforo,,,polygon
+300302001,Chiesa S Francesco,,,point
+2268180642,Chiesa ,,,point
+1593973017,Merlano,,,point
+1505648644,Chiesa di Sant'Ambrogio,,,point
+2126487276,Cappella di San Giovanni Gualberto,,,point
+188278621,Chiesa di Sant'Ilario a Port' Aurea,,,polygon
+1456347505,Chiesa cristiana evangelica,,,point
+2149599821,Congregazione Figlie di NS Eucarestia,,,point
+1574874683,Chiesa S. Giovanni,,,point
+133981116,Chiesa,,,polygon
+142804856,Santa Maria in Organo,,,polygon
+187386230,Chiesa di San Giacomo,,,polygon
+679194941,Chiesa di S. Rita,,,point
+153595444,Cappella de Larderel,,,polygon
+1428098298,Chiesa Santa Lucia,,,point
+1949524820,Parrocchia Stella Maris,,,point
+174362348,Church,,,polygon
+36817317,San Francesco,,,polygon
+1775959591,San Francesco,,,point
+184077496,Certosa di Serra San Bruno,,,polygon
+144167283,S. M. Maddalena di Quinzono,,,polygon
+113503038,chiesa di S.Marco e S.Michele,,,polygon
+2058653502,Chiesa Santa Croce,,,point
+202532735,San Michele,,,polygon
+2209855095,Chiesa di San Michele Arcangelo,,,point
+811800451,Chiesa di Spirito Santo,,,point
+1495476205,Parrocchia San Clemente,,,point
+209037492,Madonna del Runal,,,polygon
+2291350277,Pieve di San Giovanni Battista a Recenza,,,point
+851276060,Wolfsgrube - Fossa del Lupo,,,point
+179649602,Capella San Giuseppe,,,polygon
+174693206,Maria Vergine e San Lorenzo,,,polygon
+2132300501,Madonna di Pompei,,,point
+621138228,Cimitero di Gaggio in Piano,,,point
+192771152,Basilica della Madonna delle Grazie,,,polygon
+220483990,Madonna del Carmine,,,polygon
+194311398,Chiesa di San Domenico,,,polygon
+204662171,Convento dei Cappuccini,,,polygon
+110550849,Immacolata a Montughi,,,polygon
+-2168760,Convento della Santissima Annunciata Dei servi di Maria,,,polygon
+1848333147,Chiesa San Francesco,,,point
+192147128,La Madonnina,,,polygon
+143369788,Chiesa di San Bernardo,,,polygon
+158209457,Alpini,,,polygon
+204723964,Chiesa di S. Colombano,,,polygon
+182854999,Chiesa Spirito Santo,,,polygon
+59056318,Chiesa di San Martino,,,polygon
+2074517407,San Nicola,,,point
+50338042,Pieve SS. Pietro e Paolo,,,polygon
+1987430666,B.V. Maria Stella del mare,,,point
+61683125,Chiesa di San Rocco,,,polygon
+863149561,Santo Spirito,,,point
+1762147412,S Agata,,,point
+219116675,Madonna di Monte Vetro,,,polygon
+161461584,Suore Salesiane del Sacro Cuore di Gesù,,,polygon
+1577376613,Piazza Padre Pio Da Pietrelcina,,,point
+1790644089,SS. Apostoli,,,point
+867589353,Chiesa San Salvatore,,,point
+185419192,Chiesa Madonna delle Grazie,,,polygon
+129383695,Parrocchia Beato Bernardo di Baden,,,polygon
+110576152,San Silvestro,,,polygon
+-1921467,San Rocco,,,polygon
+1898664838,Chiesa di Santa Maria Assunta e Santa Lucia,,,point
+164908485,Casa di Caifa,,,polygon
+146178219,Convento di San Lorenzo,,,polygon
+935141374,San Giovanni Battista,,,point
+838452419,Madonna dei Monti,,,point
+174247094,Santa Lucia al Sepolcro,,,polygon
+73549080,Cattedrale di Otranto,,,polygon
+2281294090,S. Elena,,,point
+618140032,San Luigi Gonzaga,,,point
+152951829,Chiesa della Resistenza,,,polygon
+2027988192,Convento degli Oliva,,,point
+453231101,Abbazia di San Salvatore di Valdicastro,,,point
+219966756,Chisa San Valentino 1300 DC,,,polygon
+616872162,Parrocchia Mater Ecclesiae,,,point
+1394236534,Ex Chiesa di Santa Margherita,,,point
+2015777108,pieva sietina,,,point
+34497187,St. Johann,,,polygon
+162688273,Chiesa di Bigolino,,,polygon
+183085469,Duomo,,,polygon
+1861667774,Chiesa di Valle Buona,,,point
+679669809,Chiesa S. Lucia,,,point
+183341847,Santa Maria Assunta,,,polygon
+132020865,Santa Maria in via Lata,,,polygon
+168127683,Chiesa sconsacrata,,,polygon
+203570005,Convento dei Padri Cappuccini,,,polygon
+167305936,San Giorgio,,,polygon
+51487157,Cimitero di Nebbiano,,,polygon
+164408045,Chiesa della Natività di S. Maria Vergine,,,polygon
+1405099351,Ave Maria,,,point
+99006173,Chiesa di Sant'Agostino,,,polygon
+1076396783,Chiesetta della Buona Morte,,,point
+183989354,Santa Maria del Gesù,,,polygon
+143256845,Chiesa di San Gregorio,,,polygon
+155584871,Oratorio di San Giovanni Battista,,,polygon
+158366234,Badiazza,,,polygon
+153593428,Oratorio di Sant'Antonino,,,polygon
+661144728,S.Giovanni Battista,,,point
+1692924398,Pieve,,,point
+1896261852,Chiesa San Filippo,,,point
+1142902164,Madonna della Neve,,,point
+2127306662,Chiesa di Santa Veronica,,,point
+59385084,Sacello della Madonna del Grappa,,,polygon
+183907622,Pieve di Urago Mella,,,polygon
+200830148,Chiesa San Basilio,,,polygon
+194311399,Chiesa di Santa Barbara,,,polygon
+135661366,La Buca,,,polygon
+96827838,Parrocchia,,,polygon
+459533389,Pilun,,,point
+-2802435,Ex Chiesa di Santa Chiara,,,polygon
+1549587741,Cimitero di Vada,,,point
+767933162,San Giuseppe da Copertino,,,point
+212437694,Madonna dell'Albero,,,polygon
+128435102,Chiesa di Santa Reparata,,,polygon
+223118312,S. Girolamo Emiliani,,,polygon
+1762147472,Il Deserto,,,point
+138517364,San Pietro della Genca,,,polygon
+155584868,Loggia di San Sebastiano,,,polygon
+1324641340,Maria Schutz,,,point
+164694059,Madonna del Carmine,,,polygon
+167010350,Cappella Revedin,,,polygon
+130468092,Chiesa Santissima Annunziata,,,polygon
+212849258,Chiesetta San Martino,,,polygon
+-2354096,Abbazia del Beato Angelo,,,polygon
+220207958,Chiesa di Santa Maria dell'Abbondanza,,,polygon
+164908491,Cappella della Veronica,,,polygon
+1873548771,Chiesa,,,point
+146374312,San Gregorio,,,polygon
+139987067,Oratorio della Santa Croce,,,polygon
+212014749,chiesa Madonna del Carmelo,,,polygon
+978022055,Parrocchiale di Rivoira,,,point
+164908487,Il carcere di Cristo,,,polygon
+1436258439,S.S. Salvatore,,,point
+2099656620,Cappelletta,,,point
+185101090,Santa Maria delle Delizie,,,polygon
+165543458,Via Cristoforo Colombo,,,line
+223243742,Ex Convento di Santo Stefano,,,polygon
+816741206,Duomo,,,point
+1836503789,Oratorio,,,point
+186273011,Chiesa di Sant'Antonio Abate,,,polygon
+215025934,Chiesa di San Filippo  Neri,,,polygon
+1036114445,Chiesa Madonna del Devesio,,,point
+864901957,Chiesa Vado,,,point
+1775885402,St. Michel,,,point
+1739780335,Chiesa di San Domenico,,,point
+2044591418,San Severo,,,point
+217842299,Madonna Di Tessara,,,polygon
+213876805,S. Francesco ai Cappuccini,,,polygon
+177360391,San Paolo Apostolo,,,polygon
+145993667,Guglielmo Marconi,,,polygon
+36817315,San Maria,,,polygon
+2146467220,S. Bernardo,,,point
+174521977,Chiesa di San Giorgio,,,polygon
+182887052,Santella San Giuseppe,,,polygon
+198011462,Cappella della Villa Regoli,,,polygon
+185465481,Oratorio del Crocifisso,,,polygon
+193528270,Cappella Bonazzi,,,polygon
+1601512794,Santuario Madonna della Grotta,,,point
+1853304442,Pieve di San Gavino Adimari,,,point
+222475005,S. Giuseppe,,,polygon
+1211864620,Chiesa San Francesco da Paola,,,point
+158964488,Chiesetta di Villa Fietta,,,polygon
+1909114140,Chiesa di San Francesco,,,point
+158961098,S.Giacomo,,,polygon
+1474489476,San Calogero,,,point
+2308206976,Madonnina della Punta,,,point
+93117520,Rotonda di San Lorenzo,,,polygon
+186403600,Chiesa Vecchia di Cavalo,,,polygon
+2072572095,Chiesa,,,point
+897042770,Oratorio di Villa Sermondi,,,point
+202529478,San Domenico,,,polygon
+135543360,Chiesa di Portacomaro Stazione,,,polygon
+333789316,Santuario della Madonnina,,,point
+189132666,Chiesa del SS. Salvatore,,,polygon
+147863113,Parrocchia Santa Maria di Testona,,,polygon
+2154066316,Ex chiesa di San Bartolomeo dell'olivella,,,point
+169256590,Abbazia di Sant'Eutizio,,,polygon
+1879705333,Santa Maria in Vivario,,,point
+205178265,Chiesa del Carmine,,,polygon
+986549729,Parrocchia San Francesco Da Paola,,,point
+173805245,Chiesa di San Rocco,,,polygon
+198274748,Vecchia Chiesa Parrocchiale,,,polygon
+61683086,Cattedrale di Santa Maria Assunta,,,polygon
+1695372425,Chiesa della Mucciatella,,,point
+1789895353,Chiesa Madonna Immacolata,,,point
+149956191,Chiesa di San Martino in Pedriolo,,,polygon
+727459641,Grotta della Madonna di Lourdes,,,point
+1213219664,Chiesa s. Andrea,,,point
+534724371,Oratorio di Trezzo sull'Adda,,,point
+211183136,S. Paolo,,,polygon
+151399655,Chiesa di Casale,,,polygon
+179584997,San Benedetto (Salesiani),,,polygon
+198394378,Chiesa di San Leonardo,,,polygon
+1133891886,Cimitero,,,point
+154751134,Santa Maria di Belverde,,,polygon
+2024856337,Chiesa di Santa Limbania,,,point
+167388479,Villa Bertolucci,,,polygon
+158560963,Monastero delle Monache Romite di Sant'Ambrogio,,,polygon
+180715721,Cappella di Sant'Anna,,,polygon
+221542656,Cappella della Madonna del Rosario,,,polygon
+470305949,San Lorenzo,,,point
+1944706912,Abbazia di Scalocchio,,,point
+811809232,Chiesa di San Gaetano Catanoso,,,point
+178942763,Chiesa del Carmine,,,polygon
+-2390213,Eremo di San Michele,,,polygon
+2030896150,10. Capitello: Madonna di San Rochetto,,,point
+201206114,Monastero,,,polygon
+1152863266,Parrocchia S.Andrea Corsini,,,point
+222657120,San Martino,,,polygon
+201188969,Monastero,,,polygon
+2074517412,San Giuseppe,,,point
+142023283,Santa Maria degli Angeli,,,polygon
+160575797,Chiesa Russa,,,polygon
+36817268,Collegiata,,,polygon
+201838906,Chiesa Matrice di San Nicola,,,polygon
+811801145,Chiesa del Volto Santo,,,point
+167139154,Sant'Agnese,,,polygon
+138842959,Chiesa di San Vidal,,,polygon
+151090706,San Paolo,,,polygon
+161427027,Santa Maria a Brucianesi,,,polygon
+164578482,Cenobio,,,polygon
+169814452,Cappella dell'Immacolata,,,polygon
+412958072,San Michele,,,point
+166335429,Cappella,,,polygon
+2162861701,Madonna degli Angeli,,,point
+-1992073,Convento dei Padri Cappuccini,,,polygon
+198221972,Cappella Regina Pacis,,,polygon
+91870043,Abbazia di Praglia,,,polygon
+1743974004,capitello,,,point
+759506740,Chiesa di Villaga,,,point
+204485261,San Calogero,,,polygon
+318967065,Abbazia di San Benedetto del Frondigliosi,,,point
+130456516,Chiesa Nuova,,,polygon
+130745221,Complesso Monumentale San Paolo,,,polygon
+154145112,Convento di Sant'Ilarione,,,polygon
+88809541,L'Arca - Ex chiesa di San Marco,,,polygon
+158548106,Alpeggio La Certosa,,,polygon
+811802373,Santuario di San Paolo,,,point
+96966451,Madonna della Neve,,,polygon
+938794945,Basilica di San Michele Arcangelo,,,point
+185419194,Madonna delle Grazie,,,polygon
+218491237,Chiesa di S.Andrea,,,polygon
+369821052,Certosa Serra San Bruno,,,point
+770216904,Madonna di,,,point
+178225925,Frati Capuccini,,,polygon
+217596372,Madonna Di Tessara,,,polygon
+1804876619,Santuario di Canneto,,,point
+1944637426,Chiesa di San Martino,,,point
+36037666,Convitto Padri Stimmatini,,,polygon
+1849768414,Chiesa Sant? Agostino,,,point
+197654528,Cimitero nuovo,,,polygon
+1165098391,S. Maria delle Case,,,point
+222475007,S.Maria delle Grazie,,,polygon
+1775959537,Duomo,,,point
+1921756375,CHiesa di S. Pietro (sconsacrata),,,point
+2058615646,Chiesa San Giuseppe,,,point
+168274767,Church,,,polygon
+145702834,San Giorgio,,,polygon
+171381672,Sala del Regno dei Testimoni di Geova,,,polygon
+85667620,Chiesa Barocca,,,polygon
+191207999,Chiesa di S. Giuseppe al Lagaccio,,,polygon
+208618179,Certosa di Pontignano,,,polygon
+428291739,Capp.la Mad. Cotolivier,,,point
+67491604,Sant'Alessandro,,,polygon
+148149477,Chiesa di Pezzan,,,polygon
+618059135,Chiesa di S. Giorgio,,,point
+888322176,Capitello,,,point
+197158420,Chiesa di sant'Apollinare,,,polygon
+177597587,Missione evangelistica,,,polygon
+102590652,Maria Maddalena dei Piani,,,polygon
+1890288517,Santa Maria delle Grazie in San Pietro,,,point
+165239661,Chiesa di San Vitale,,,polygon
+201182769,Chiesa della Resurrezione,,,polygon
+191110848,Convento dei Cappuccini,,,polygon
+2222865908,San Giorgio e Beata Vergine Immacolata,,,point
+1944706907,Abbazia San Michele Arcangelo,,,point
+1428097847,Chiesa di Santa Maria delle Nevi,,,point
+169565763,San Marco,,,polygon
+164201802,Santa Rita,,,polygon
+60684027,no name,,,polygon
+1286736792,chiesa di S.Marco e S.Michele,,,point
+205149380,PARROCCHIA MADONNA PELLEGRINA,,,polygon
+37541494,Cimitero comunale,,,polygon
+105263582,Oratorio S. Antonio Abate,,,polygon
+1890293165,San Ciro Martire,,,point
+127118495,Parrocchiale di San Giovanni B.,,,polygon
+428291738,Capp.la S.Domenico,,,point
+195594360,Oratorio del Garello,,,polygon
+132832066,Auditorium San Barnaba,,,polygon
+166785578,"Oratorio detto ""La Crispa""",,,polygon
+1435306913,Chiesa di Oliero,,,point
+190048966, Sant'Abbondio,,,polygon
+973811056,Cappella di San Giorgio,,,point
+776941326,S. Rosa,,,point
+107373503,Chiesa di Santa Croce,,,polygon
+183989811,Chiesa Madonna delle Grazie,,,polygon
+1944666442,Oratorio di Colledestro,,,point
+135710623,Chiesa,,,polygon
+2020613899,Chiesa di Pianzo,,,point
+1944932062,Chiesa San Nicolo,,,point
+183992849,Cappella di Villa Vignola,,,polygon
+1428097521,Chiesa Sant'Antonio Abate,,,point
+2246485214,Capella Alpini,,,point
+1389672592,S. Bachisio,,,point
+210598888,St. Maria in der Schmelz,,,polygon
+2165957402,Ex chiesa di Sant'Antonio di Padova,,,point
+1440847135,Chiesetta S. Valentino,,,point
+161461583,Istituto Ancelle Riparatrici,,,polygon
+204119127,Santuario della Novareia,,,polygon
+2222879178,Sant'Alessandro,,,point
+622527750,Oasi di San Martino,,,point
+193513904,Cappella di San Defendente,,,polygon
+172171887,Chiesa San Vittorino,,,polygon
+1832778747,Chiesa di Varano Melegari,,,point
+184800861,Chiesa di Maria Ausiliatrice,,,polygon
+2107696890,Chiesa di San Felice e San Giorgio,,,point
+1857024933,Uffogliano,,,point
+86571330,Chiesetta del San Martino,,,polygon
+1944950410,Chiesetta delle Ripe,,,point
+144658381,Basilica San Giuseppe da Copertino,,,polygon
+167002059,Ex Chiesa di San Michele,,,polygon
+197149029,San Pio,,,polygon
+1944932015,Chiesa Madonna del Ponte,,,point
+149784795,Chiesa,,,polygon
+1782309172,Chiesa santa Maria Lauretana,,,point
+175766891,Maria Addolorata a Grottasanta,,,polygon
+180715722,Chiesa di San Michele al Monte Barro,,,polygon
+962993057,Chiesa di San Domenico,,,point
+184948673,Parrocchia Santa Maria Goretti,,,polygon
+2151557941,Chiesa del Carmine,,,point
+180707357,Sant'Adriano,,,polygon
+154327419,Chiesa della Mamma Nostra,,,polygon
+144939721,Santuario di santa Marta,,,polygon
+172407562,Chiesa,,,polygon
+1935903716,Battuti Bianchi,,,point
+1896261846,Parrocchia Madonna della Assunta,,,point
+183940094,Parrocchia Annunziata,,,polygon
+165535820,Chiesa di santa Rita,,,polygon
+151699760,Matrice,,,polygon
+157726043,Tempio Laico,,,polygon
+1428096520,Santuario Maria Santissima di Costantinopoli,,,point
+1178911235,San Lorenzo,,,point
+1311610955,Chiesa,,,point
+1944932014,Chiesa San Domenica,,,point
+167377884,Beata Vergine della Sassola,,,polygon
+178932467,Chiesa S.Giovanni,,,polygon
+267271372,Madonna delle Grazie,,,point
+792841760,Capitello,,,point
+1428096224,Chiesa dell'Assunta,,,point
+146036996,Villaggio dei Novenari,,,polygon
+206190203,Oratorio di S. Antonio da Padova,,,polygon
+59056284,Chiesa di San Rocco,,,polygon
+118505281,Chiesa del Regno dei Testimoni di Geova,,,polygon
+1540793531,Chiesa Maria Santissima Liberatrice Dai Flagelli,,,point
+179021807,Pieve San Genesio,,,polygon
+2192223170,Chiesa della SS. Annunziata,,,point
+569430390,Chiesa S. Giovanni Battista,,,point
+185988245,Chiesa della Madonna delle Grazie,,,polygon
+164910437,Edicola del Noli me Tangere,,,polygon
+148336120,Ossario,,,polygon
+142804860,Santa Maria in Organo,,,polygon
+120670659,Eremo Santa Maria ani,,,polygon
+764075584,santa Croce,,,point
+157472420,Mondo Migliore Centro Spirituale,,,polygon
+96694609,Parrocchia Ss. Nazario e Celso,,,polygon
+191735897,Chiesa di San Nicolò,,,polygon
+888614422,S. Pietro in Vincoli,,,point
+203449005,Santuario della Madonna del Divino Amore,,,polygon
+163033928,Parrochia Sant’Anselmo,,,polygon
+158963472,Chiesa Parrocchiale di Paderno del Grappa,,,polygon
+179606839,San Pietro a Paterno,,,polygon
+145740279,Tempietto Barbaro,,,polygon
+2212891193,Parrocchia Maria SS. Assunta,,,point
+147473995,Cappella Villa degli Armeni,,,polygon
+133578203,Chiesa arcipretale di San Giorgio,,,polygon
+167143459,Chiesa di Sant'Antonio,,,polygon
+459536772,Pilone S.Anna,,,point
+1316371990,Santuario Madonna di Uliano,,,point
+174496963,Cappella della Croce Dorata,,,polygon
+477480667,Cristo Re,,,point
+1506618686,Chiesa di San Martino,,,point
+148046054,Chiesa di San Giorgio,,,polygon
+98957158,Madonna del Sasso,,,polygon
+149735356,Oratorio di San Michele,,,polygon
+31297931,Convento Francescano Santa Maria di Loreto,,,point
+183337720,Chiesa di San Siro,,,polygon
+159352408,Chiesa di Santa Maria Chiara,,,polygon
+32562699,Eremo Le Celle,,,polygon
+1593550823,Chiesa di Frassinello,,,point
+119824510,Santa Maria Assunta,,,polygon
+220111616,Santuario Santa Maria di Rifesi,,,polygon
+168933888,S. Maria Assunta Parish Church,,,polygon
+197332017,Madonna del Buon consiglio,,,polygon
+74328132,Oratorio S. Carlo Borromeo,,,polygon
+1840604112,Chiesa,,,point
+1851987561,icona San Vito,,,point
+204693130,Chiesa di San Martino,,,polygon
+189271705,San Tommaso,,,polygon
+660681407,Cimitero di Vignola,,,point
+175765127,San Francesco d'Assisi,,,polygon
+166729915,Oratorio,,,polygon
+151153156,Madonna della Sperlonga,,,polygon
+193159998,Oratorio di Sant'Erasmo,,,polygon
+737231836,Chiesa Sant'Andrea dell'Ausa,,,point
+36380497,Cappella Ungherese,,,polygon
+85009360,San Rocco,,,polygon
+68458706,Santuario di Macereto,,,polygon
+1466934178,Chiesa San Francesco,,,point
+166572147,Oratorio San Antonio,,,polygon
+184800442,Chiesa del Sacro Cuore di Gesù,,,polygon
+1131039069,Casa delle Maestre Pie,,,point
+164908500,Cappella dell'Andate al Calvario,,,polygon
+183085468,Chiesa di Campo di Alano,,,polygon
+180806400,San Martino,,,polygon
+188468845,Parrocchia S. Stefano (Bedizzole),,,polygon
+97424857,Chiesa di San Pietro in Selva,,,polygon
+100139379,Chiesa dei Santi Salvatore e Lorenzo a Settimo,,,polygon
+158093920,Conv di S. Francesco,,,polygon
+762397398,Oratorio di San Gaetano,,,point
+145642564,Chiesa di San Giorgio Martire,,,polygon
+105465750,Chiesa di Santa Maria Maddalena,,,polygon
+2267583445,Cappella San Giovanni,,,point
+183010974,Oratorio Favallina,,,polygon
+566225223,Cimitero Vecchio,,,point
+1428097822,Convento delle Clarisse,,,point
+205278971,SS Crocefisso,,,polygon
+1735166158,Cappella di Costalovaia,,,point
+41827363,St. Jakob,,,polygon
+184131693,Chiesa di Sant'Eugenio,,,polygon
+1428096308,Chiesa del Ritiro,,,point
+147679847,Chiesa Madonna dei Campi,,,polygon
+186646336,San Giovanni Battista,,,polygon
+145774923,Cattedrale di Asolo,,,polygon
+866459273,Capitello,,,point
+81031983,Chiesa di Sant Innocenzo,,,polygon
+120672287,Santo Stefano,,,polygon
+1851255789,San Francesco,,,point
+1922526479,Santuario della Madonna degli Angeli,,,point
+155441515,Sacrario di Cristo Re,,,polygon
+182136898,Cristo Risorto,,,polygon
+1750760157,San Tommaso,,,point
+1426833494,Ex Chiesa Santa Maria Maggiore,,,point
+72119308,Oratorio di Sant'Andrea,,,polygon
+1605143357,Chiesa San Marco,,,point
+428291737,Capp.la S.Anna,,,point
+166729273,Madonna della Provvidenza,,,polygon
+1127739134,cemetery,,,point
+1320723611,Chiesa di San Rocco,,,point
+1072822230,Chiesa della Santissima Annunziata a Via Ardeatina (??),,,point
+-2234319,Della libertà,,,polygon
+1762399127,Sant'Agostino,,,point
+172407670,Chiesetta,,,polygon
+1838682979,Chiesa Sacro Cuore,,,point
+223243741,Ex Convento di Santo Stefano,,,polygon
+-2960999,Auditorium San Domenico,,,polygon
+593968725,Nostra Signora di Bonaria,,,point
+203501362,Cuba bizantina,,,polygon
+168931804,Oratorio di S. Matteo,,,polygon
+158355707,Beata Vergine delle Nevi,,,polygon
+222475006,S. Pio X,,,polygon
+124258520,San Grato,,,polygon
+711448619,chiesa San Domenico,,,point
+1760417216,Chiesa di San Donato,,,point
+145667236,Duomo,,,polygon
+92907605,Chiesa Parrocchiale di San Paolo Apostolo,,,polygon
+1855980517,Oratorio San Bartolomeo,,,point
+135711870,Chiesa,,,polygon
+212099919,Chiesa di Santa Libera,,,polygon
+641266408,S.Andrea,,,point
+99548581,Chapelle de la Montette,,,polygon
+168499486,Cappella di Sant'Edoardo,,,polygon
+2087665206,Chiesa di San Silvestro,,,point
+159394659,Chiesa di Santa Felicita,,,polygon
+48369481,Sala del Regno dei Testimoni di Geova,,,polygon
+696485980,S. Umile,,,point
+88904343,Basilica di Santa Croce,,,polygon
+167042091,Complesso Boldini,,,polygon
+440779806,Santuario B. Giovanni Righi dei frati minori,,,point
+147960344,St. Georg in Wangg,,,polygon
+198492470,chiesa di Chasterain,,,polygon
+201918014,Chiesa di Sant'Ignazio,,,polygon
+986521740,Parrocchia del Carmine,,,point
+221375172,Cappella di San Rocco,,,polygon
+1456762951,Santi Pietro e Paolo,,,point
+1330761343,SS Trinità,,,point
+1428096998,Chiesa Matrice Maggiore,,,point
+246103704,Santa Maria,,,point
+158379859,San Michele,,,polygon
+164908502,Il Monte Sion,,,polygon
+1126940165,Chiesa del Sacro Cuore,,,point
+143369787,Chiesa di San Giacomo,,,polygon
+219450486,Chiesa,,,polygon
+639309915,l'Eremo Nuovo,,,point
+160086760,San Vincenzo,,,polygon
+170298612,Santi Filippo e Giacomo,,,polygon
+1917363421,Madonna dello Scoglio,,,point
+182738299,San Bernardino,,,polygon
+221500649,Convento di Palazzola,,,polygon
+120653969,Chiesa Cuore Immacolato di Maria,,,polygon
+1428098349,Chiesa Santa Lucia,,,point
+85567513,Santuario della Madonna dei Cappuccini,,,polygon
+160143030,San Rocco,,,polygon
+184800591,Chiesa di Santa Maria Assunta,,,polygon
+103776667,Chiesa S. Michele,,,polygon
+96559980,Chiesa di San Salvatore,,,polygon
+166695997,Chiesa di San Domenico,,,polygon
+1414409415,immacolata concezione,,,point
+222939919,Chiesetta di San Michele,,,polygon
+76866279,Chiesa di Astino,,,polygon
+159961921,San Francesco,,,polygon
+197170882,Piazza caduti sul lavoro,,,polygon
+1797585148,Sylvesterkapelle,,,point
+1274062984,Convento Francescano di Montecasale,,,point
+102147498,Santuario della Madonna di Monte Leucio,,,polygon
+196029732,Santa Maria,,,polygon
+124903174,Cappella del Bandito,,,polygon
+151527780,Cappella di S. Adalberto,,,polygon
+176906939,Santa Lucia,,,polygon
+145643576,Cappella di San Michele Arcangelo e della Visitazione di Maria,,,polygon
+152030600,S. Mamante in Curiano,,,polygon
+1497523962,Tempio San Francesco di Paola,,,point
+194291881,Chiesa di Chieci,,,polygon
+174392316,Chiesa della Resurrezione,,,polygon
+96559982,Chiesa di Sant'Agnese in Chianti,,,polygon
+184806598,Chiesa di San Marco,,,polygon
+217817656,Nostra Signora di Buon Cammino ,,,polygon
+212437854,Sant'Alessandro,,,polygon
+149053667,S. Giacomo,,,polygon
+1608476156,Cappella degli Apini,,,point
+36195580,Abbazia di Rosazzo,,,polygon
+164910436,Cappella del Ascensione,,,polygon
+144121324,Chiesa di San Pietro,,,polygon
+264196025,Sala del Regno dei Testimoni di Geova,,,point
+1623822120,Dlijia Santa Tarina,,,point
+1290104454,Parrocchia SS Annunziata dei Greci,,,point
+2074517456,Santuario Madonna del Buon Consiglio,,,point
+169643142,Chiesa di San Vito Martire,,,polygon
+1864112944,Eremo di San Felice,,,point
+132114528,Chiesa di Villaguattera,,,polygon
+2167696105,San Pio X,,,point
+2125982354,Eremo di S.Pietro alle Stinche,,,point
+209037258,Duomo ala n°2,,,polygon
+616872071,Chiesa S. Francesco,,,point
+410179213,St. ?,,,point
+212019263,Chiesa SS Filippo e Giacomo,,,polygon
+180526633,Oratorio dei Disiplinanti,,,polygon
+2192566264,Chiesa  di San Giovanni Battista,,,point
+190920853,ex Chiesa di San Biaggio,,,polygon
+1120722418,San Pietro,,,point
+1330930615,Chiesa S. Caterina,,,point
+986549721,Parrocchia San Gerardo Maiella,,,point
+24734690,Chiesa Cristo Re,,,polygon
+115917727,Chiesa S.Agostino,,,polygon
+1950330571,Palestra  Antares,,,point
+117457253,Cimitero di San Donnino,,,polygon
+135579133,Chiesa Granatieri di Sardegna,,,polygon
+1981705086,Chiesa S. Maria Maddalena,,,point
+151774772,Chiesetta di Sant'Anna,,,polygon
+1636821206,Chiesa di S.ANNA,,,point
+913344474,Pestkapelle,,,point
+172407747,Chiesetta S.Martino,,,polygon
+160785765,Oratorio Giovannoni,,,polygon
+203398954,S. Maria dellaDifesa,,,polygon
+222170570,Church,,,polygon
+2027988199,Chiesa dei Marinelli,,,point
+185593781,Chiesa di Sant'Alfonso Maria de' Liguori,,,polygon
+1697506573,Santa Barbara,,,point
+1879708125,Santuario Capo Croce di Gesù,,,point
+88065916,Convento Frati Cappuccini,,,polygon
+1982765936,Chiesa di San Pietro Apostolo,,,point
+178879547,Monastero di S. Chiara,,,polygon
+181123834,Chiesa della Pastorella,,,polygon
+174730585,San Martino a Cellole,,,polygon
+45443687,Chiesa San Giovanni Ex Lazzaretto,,,polygon
+150063670,Chiesa Della Natività,,,polygon
+619223812,Cimitero di SanCesario,,,point
+125269578,San Donato,,,polygon
+1928072426,Santa Bernardetta Soubirous,,,point
+333227450,Chiesa,,,point
+1224404797,Cimitero,,,point
+147016673,Eremo di San Luca,,,polygon
+166230362,Chiesa di Santa Maria della Selve,,,polygon
+58935428,Moschea di Catania,,,polygon
+2018055298,Chiesa di Santa Pelagia,,,point
+1682879245,Cap. Or Vergugn,,,point
+595588038,Cimitero,,,point
+2100149123,Madonna delle Grazie,,,point
+425929907,Jakobsstöckl,,,point
+164908497,Cappella della Crucifissione,,,polygon
+568544139,San Quirico,,,point
+601173351,Santuario Madonna Del Monte,,,point
+59459654,Chiesa di San Domenico,,,polygon
+166644819,Sant'Anna,,,polygon
+428291746,Capp.la Madonna della Neve (Sanità),,,point
+727625944,Madonna di Lourdes,,,point
+2163096476,Ex oratorio della Beata Vergine Addolorata,,,point
+1985666554,chiesa valloni,,,point
+161365140,Chiesa di Montebruno,,,polygon
+1879705230,SS. Sacramento,,,point
+2206010629,S. Giacomo,,,point
+187505826,Chiesa di Sant'Andrea,,,polygon
+1845703467,Eremo San Michele,,,point
+70979415,Chiesa di San Bernardino,,,polygon
+763529855,Chiesa della Madonna del rosario,,,point
+808510860,Kapuzinerkirche,,,point
+144795990,Chiesa di Santa Maria della Misericordia,,,polygon
+199485004,Scurolo della Beata Panacea,,,polygon
+573615484,Soka Gakkai,,,point
+173149875,Chiesa all'aperto,,,polygon
+1873548770,San Caprasio,,,point
+912287842,St. Johann,,,point
+185988246,Chiesa di S. Carlo Borromeo,,,polygon
+160784973,Oratorio di Monticello,,,polygon
+167306147,San Carlo,,,polygon
+769981273,Capitello,,,point
+1575045212,Monumento a Padre Pio da Pietrelcina,,,point
+2027988112,Chiesa di Santo Marino e Stefano,,,point
+2063311116,casa natale di San Tommaso di Cori,,,point
+2294709802,Kirche,,,point
+181720331,Rissulina,,,polygon
+100106783,San Michele,,,polygon
+58730033,San Marco,,,polygon
+1801764719,Parrocchia Ludriano,,,point
+297364458,Pieve di Romena,,,point
+1491616155,Chiesa di Santa Maria,,,point
+197687251,Cappella,,,polygon
+1894256262,Edicola Votiva,,,point
+148149474,Chiesa di Padernello,,,polygon
+1883628459,Dlijia da Lungiarü,,,point
+191792195,Chiesa di San Giovanni Bono,,,polygon
+162782625,Chiesetta di San Tommaso il Vecchio,,,polygon
+915988941,Dreikirchen,,,point
+220260678,Cappella della Madonna di Loreto,,,polygon
+1235216316,Pilastrino,,,point
+158738730,Santa Maria de Is Acquas,,,polygon
+1033165170,San Rocco,,,point
+194189000,Cappella di S.Lucia,,,polygon
+160785979,Santa Eurosia,,,polygon
+156250040,Chiesa di S. Agostino,,,polygon
+197147664,San Nicola,,,polygon
+183331807,Sant'Egidio,,,polygon
+1404301824,San Chiaffredo,,,point
+621747498,Cimitero di Spilamberto,,,point
+148149472,Chiesa di Istrana,,,polygon
+2303743560,Santa Maria della Pietà,,,point
+158684664,St. Anna,,,polygon
+506154060,Campanile Settefonti,,,point
+1223754100,San Pierino,,,point
+151634623,Chiesa vecchia,,,polygon
+212437502,San Giorgio e Beata Vergine Immacolata,,,polygon
+173258952,Chiesa dei Santi Gervaso e Protaso,,,polygon
+140907378,Pievasciata,,,polygon
+2135923074,Chiesa della Forcora,,,point
+621197525,Cimitero Recovato,,,point
+143373083,Chiesa di San Luigi,,,polygon
+137542425,cimitero,,,polygon
+209566203,Sa Muredda,,,polygon
+1233469742,San Giorgio,,,point
+133734425,San Gregorio Barbarigo,,,polygon
+220228388,Chiesa Vecchia,,,polygon
+145398074,Satuario di Moglietti,,,polygon
+655284879,San Francesco,,,point
+1735161975,Cappella del Monte Pianetto - Brughea,,,point
+2141492025,Crocifisso Valle Benedetta,,,point
+159814597,Chiesa della natività,,,polygon
+2305584410,Cappella di Gorra,,,point
+2156721713,Parrocchia di San Bartolomeo,,,point
+1330983285,Cappella di S. Sebastiano,,,point
+149694659,S. Antioco,,,polygon
+166313488,Centro San Giuseppe,,,polygon
+45443083,Chiesetta San Vito,,,polygon
+167306146,San Giovanni Battista,,,polygon
+149469810,Santa Maria della Neve,,,polygon
+1922439941,Madonnina del faggio,,,point

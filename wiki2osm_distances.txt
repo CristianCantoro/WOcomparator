@@ -1,0 +1,1 @@
+pagename,osm_id,osm_type,osm_lon,osm_lat,wiki_lon,wiki_lat,distance,intersects

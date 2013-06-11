@@ -1,0 +1,322 @@
+{| {{prettytable}}
+!pagename!! osm_id!! osm_type!! osm_lon!! osm_lat
+|-
+|[[Pieve_dei_Santi_Jacopo_e_Filippo|Pieve dei Santi Jacopo e Filippo]]|| [http://www.openstreetmap.org/?way=163742943&mlon=10.9572113071&mlat=43.2651564341 163742943]|| polygon|| 10.9572113071|| 43.2651564341
+|-
+|[[Chiesa_di_San_Marcello_al_Corso|Chiesa di San Marcello al Corso]]|| [http://www.openstreetmap.org/?way=52458908&mlon=12.4819905563&mlat=41.8986923351 52458908]|| polygon|| 12.4819905563|| 41.8986923351
+|-
+|[[Chiesa_di_Santa_Maria_delle_Grazie_(Zafferana_Etnea)|Chiesa di Santa Maria delle Grazie (Zafferana Etnea)]]|| [http://www.openstreetmap.org/?way=146026711&mlon=15.1060952296&mlat=37.6943991664 146026711]|| polygon|| 15.1060952296|| 37.6943991664
+|-
+|[[Chiesa_della_Pietà_(Venezia)|Chiesa della Pietà (Venezia)]]|| [http://www.openstreetmap.org/?way=138803298&mlon=12.3449414077&mlat=45.434201642 138803298]|| polygon|| 12.3449414077|| 45.434201642
+|-
+|[[Chiesa_dell'Addolorata_alla_Pigna|Chiesa dell'Addolorata alla Pigna]]|| [http://www.openstreetmap.org/?way=183993508&mlon=14.2203207235&mlat=40.8504466092 183993508]|| polygon|| 14.2203207235|| 40.8504466092
+|-
+|[[Cuba_bizantina|Cuba bizantina]]|| [http://www.openstreetmap.org/?way=203501362&mlon=15.1038192943&mlat=37.8878075915 203501362]|| polygon|| 15.1038192943|| 37.8878075915
+|-
+|[[Itri#Santa_Maria_Maggiore|Itri#Santa Maria Maggiore]]|| [http://www.openstreetmap.org/?way=160680006&mlon=13.5323923279&mlat=41.2912433638 160680006]|| polygon|| 13.5323923279|| 41.2912433638
+|-
+|[[Santa_Maria_di_Leuca#Basilica_.22Santa_Maria_De_Finibus_Terrae.22|Santa Maria di Leuca#Basilica .22Santa Maria De Finibus Terrae.22]]|| [http://www.openstreetmap.org/?node=1170709620&mlon=18.3689275385&mlat=39.7964693475 1170709620]|| point|| 18.3689275385|| 39.7964693475
+|-
+|[[Chiesa_di_San_Martino_(Burano)|Chiesa di San Martino (Burano)]]|| [http://www.openstreetmap.org/?way=176657474&mlon=12.4187803804&mlat=45.4841773104 176657474]|| polygon|| 12.4187803804|| 45.4841773104
+|-
+|[[Collegiata_di_Sant'Agata_(Santhià)|Collegiata di Sant'Agata (Santhià)]]|| [http://www.openstreetmap.org/?way=60047967&mlon=8.17469271918&mlat=45.3665689633 60047967]|| polygon|| 8.17469271918|| 45.3665689633
+|-
+|[[Duomo_di_Portobuffolè|Duomo di Portobuffolè]]|| [http://www.openstreetmap.org/?way=185307560&mlon=12.5379930005&mlat=45.8536134417 185307560]|| polygon|| 12.5379930005|| 45.8536134417
+|-
+|[[Santa_Maria_presso_San_Celso#Chiesa_di_San_Celso|Santa Maria presso San Celso#Chiesa di San Celso]]|| [http://www.openstreetmap.org/?way=165090405&mlon=9.18781824357&mlat=45.4543184198 165090405]|| polygon|| 9.18781824357|| 45.4543184198
+|-
+|[[Chiesa_di_San_Miniato_in_Marcianella|Chiesa di San Miniato in Marcianella]]|| [http://www.openstreetmap.org/?node=2144306208&mlon=10.5241138964&mlat=43.6741904722 2144306208]|| point|| 10.5241138964|| 43.6741904722
+|-
+|[[Santuario_di_San_Martino|Santuario di San Martino]]|| [http://www.openstreetmap.org/?way=209428989&mlon=9.22167360901&mlat=45.5507423333 209428989]|| polygon|| 9.22167360901|| 45.5507423333
+|-
+|[[Chiesa_della_Madonna_della_Croce_(Viggiù)|Chiesa della Madonna della Croce (Viggiù)]]|| [http://www.openstreetmap.org/?way=140422241&mlon=8.90886698125&mlat=45.8720494596 140422241]|| polygon|| 8.90886698125|| 45.8720494596
+|-
+|[[Chiesa_dei_Santi_Vincenzo_e_Anastasio_a_Trevi|Chiesa dei Santi Vincenzo e Anastasio a Trevi]]|| [http://www.openstreetmap.org/?way=201721148&mlon=12.483898398&mlat=41.9006824909 201721148]|| polygon|| 12.483898398|| 41.9006824909
+|-
+|[[Chiesa_di_San_Marco_in_San_Girolamo|Chiesa di San Marco in San Girolamo]]|| [http://www.openstreetmap.org/?node=612207391&mlon=11.5428343307&mlat=45.5525307331 612207391]|| point|| 11.5428343307|| 45.5525307331
+|-
+|[[Chiesa_di_San_Martino_(Chiusdino)|Chiesa di San Martino (Chiusdino)]]|| [http://www.openstreetmap.org/?way=165253165&mlon=11.0873574002&mlat=43.1543385229 165253165]|| polygon|| 11.0873574002|| 43.1543385229
+|-
+|[[Chiesa_del_Sacro_Cuore_di_Gesù_agonizzante|Chiesa del Sacro Cuore di Gesù agonizzante]]|| [http://www.openstreetmap.org/?way=156496345&mlon=12.4068268512&mlat=41.7910842121 156496345]|| polygon|| 12.4068268512|| 41.7910842121
+|-
+|[[Chiesa_di_Santa_Maria_d'Itria|Chiesa di Santa Maria d'Itria]]|| [http://www.openstreetmap.org/?way=202304431&mlon=12.4859193249&mlat=41.9031166308 202304431]|| polygon|| 12.4859193249|| 41.9031166308
+|-
+|[[Cattedrale_di_Santa_Maria_Annunciata|Cattedrale di Santa Maria Annunciata]]|| [http://www.openstreetmap.org/?way=-2956899&mlon=11.5438701836&mlat=45.5463171151 -2956899]|| polygon|| 11.5438701836|| 45.5463171151
+|-
+|[[Santuario_di_San_Michele_Arcangelo|Santuario di San Michele Arcangelo]]|| [http://www.openstreetmap.org/?way=92402804&mlon=15.9547848934&mlat=41.708144237 92402804]|| polygon|| 15.9547848934|| 41.708144237
+|-
+|[[Chiesa_di_Santa_Maria_Nova_(Vicenza)|Chiesa di Santa Maria Nova (Vicenza)]]|| [http://www.openstreetmap.org/?node=1407107690&mlon=11.537473185&mlat=45.5483401616 1407107690]|| point|| 11.537473185|| 45.5483401616
+|-
+|[[Cattedrale_di_Santa_Maria_Assunta_(Vittorio_Veneto)|Cattedrale di Santa Maria Assunta (Vittorio Veneto)]]|| [http://www.openstreetmap.org/?way=152707338&mlon=12.2936352647&mlat=45.9769940645 152707338]|| polygon|| 12.2936352647|| 45.9769940645
+|-
+|[[Priorato_di_Piona|Priorato di Piona]]|| [http://www.openstreetmap.org/?way=104258465&mlon=9.33142087863&mlat=46.1234911519 104258465]|| polygon|| 9.33142087863|| 46.1234911519
+|-
+|[[Chiesa_di_San_Bernardo_alle_Terme|Chiesa di San Bernardo alle Terme]]|| [http://www.openstreetmap.org/?way=203947126&mlon=12.4945161437&mlat=41.9035834396 203947126]|| polygon|| 12.4945161437|| 41.9035834396
+|-
+|[[Cattedrale_della_Natività_di_Maria_di_Monte_Oliveto_Maggiore|Cattedrale della Natività di Maria di Monte Oliveto Maggiore]]|| [http://www.openstreetmap.org/?way=185279809&mlon=11.5442225014&mlat=43.1756330754 185279809]|| polygon|| 11.5442225014|| 43.1756330754
+|-
+|[[Chiesa_di_Sant'Eligio_dei_Ferrari|Chiesa di Sant'Eligio dei Ferrari]]|| [http://www.openstreetmap.org/?way=124282254&mlon=12.4822390501&mlat=41.8903185897 124282254]|| polygon|| 12.4822390501|| 41.8903185897
+|-
+|[[Collegiata_di_Santa_Maria_Maggiore_(Alatri)|Collegiata di Santa Maria Maggiore (Alatri)]]|| [http://www.openstreetmap.org/?way=164454518&mlon=13.342155544&mlat=41.726169208 164454518]|| polygon|| 13.342155544|| 41.726169208
+|-
+|[[Duomo_di_Spoleto|Duomo di Spoleto]]|| [http://www.openstreetmap.org/?way=149675315&mlon=12.7403514428&mlat=42.7352705453 149675315]|| polygon|| 12.7403514428|| 42.7352705453
+|-
+|[[File:Chiesa_di_San_Maurizio_a_Pinerolo_TO_rectilinear.jpg|File:Chiesa di San Maurizio a Pinerolo TO rectilinear.jpg]]|| [http://www.openstreetmap.org/?way=60740445&mlon=7.32702950496&mlat=44.8893117972 60740445]|| polygon|| 7.32702950496|| 44.8893117972
+|-
+|[[Ossario_di_San_Martino|Ossario di San Martino]]|| [http://www.openstreetmap.org/?way=139378298&mlon=10.6049290535&mlat=45.4270375327 139378298]|| polygon|| 10.6049290535|| 45.4270375327
+|-
+|[[Oratorio_del_Crocifisso|Oratorio del Crocifisso]]|| [http://www.openstreetmap.org/?way=131235435&mlon=12.4819921489&mlat=41.8995976489 131235435]|| polygon|| 12.4819921489|| 41.8995976489
+|-
+|[[Chiesa_di_Sant'Atanasio_(Roma)|Chiesa di Sant'Atanasio (Roma)]]|| [http://www.openstreetmap.org/?way=60678483&mlon=12.4793470257&mlat=41.9078254656 60678483]|| polygon|| 12.4793470257|| 41.9078254656
+|-
+|[[Basilica_Santuario_dei_Santi_Vittore_e_Corona|Basilica Santuario dei Santi Vittore e Corona]]|| [http://www.openstreetmap.org/?way=217009874&mlon=11.9412668362&mlat=46.0018751873 217009874]|| polygon|| 11.9412668362|| 46.0018751873
+|-
+|[[Chiesa_di_San_Salvatore_(Spoleto)|Chiesa di San Salvatore (Spoleto)]]|| [http://www.openstreetmap.org/?way=219089974&mlon=12.7433357924&mlat=42.7418614114 219089974]|| polygon|| 12.7433357924|| 42.7418614114
+|-
+|[[Chiesa_di_San_Tommaso_(Briga_Novarese)|Chiesa di San Tommaso (Briga Novarese)]]|| [http://www.openstreetmap.org/?way=109080568&mlon=8.46393316502&mlat=45.7318111248 109080568]|| polygon|| 8.46393316502|| 45.7318111248
+|-
+|[[Chiesa_di_San_Michele_Arcangelo_(Gionzana)|Chiesa di San Michele Arcangelo (Gionzana)]]|| [http://www.openstreetmap.org/?node=2231372340&mlon=8.54312846046&mlat=45.4385747805 2231372340]|| point|| 8.54312846046|| 45.4385747805
+|-
+|[[Chiesa_di_San_Tommaso_in_Formis|Chiesa di San Tommaso in Formis]]|| [http://www.openstreetmap.org/?way=202879042&mlon=12.4946917576&mlat=41.8854128001 202879042]|| polygon|| 12.4946917576|| 41.8854128001
+|-
+|[[San_Lorenzo_in_Piscibus_(diaconia)|San Lorenzo in Piscibus (diaconia)]]|| [http://www.openstreetmap.org/?way=111736197&mlon=12.4591927028&mlat=41.9017294604 111736197]|| polygon|| 12.4591927028|| 41.9017294604
+|-
+|[[Cattedrale_di_Santa_Maria_Annunciata|Cattedrale di Santa Maria Annunciata]]|| [http://www.openstreetmap.org/?way=138894788&mlon=11.5443345744&mlat=45.5464192214 138894788]|| polygon|| 11.5443345744|| 45.5464192214
+|-
+|[[Eremo_di_Santa_Caterina_del_Sasso|Eremo di Santa Caterina del Sasso]]|| [http://www.openstreetmap.org/?node=267416891&mlon=8.59716104682&mlat=45.8769791401 267416891]|| point|| 8.59716104682|| 45.8769791401
+|-
+|[[Basilica_di_Sant'Andrea_(Mantova)|Basilica di Sant'Andrea (Mantova)]]|| [http://www.openstreetmap.org/?way=38553028&mlon=10.7944556265&mlat=45.1590347103 38553028]|| polygon|| 10.7944556265|| 45.1590347103
+|-
+|[[Mausoleo_di_Santa_Costanza|Mausoleo di Santa Costanza]]|| [http://www.openstreetmap.org/?way=35306502&mlon=12.5173730734&mlat=41.9226088555 35306502]|| polygon|| 12.5173730734|| 41.9226088555
+|-
+|[[Chiesa_di_Santa_Maria_Assunta_(Maguzzano)|Chiesa di Santa Maria Assunta (Maguzzano)]]|| [http://www.openstreetmap.org/?way=67604168&mlon=10.5026835819&mlat=45.4850998866 67604168]|| polygon|| 10.5026835819|| 45.4850998866
+|-
+|[[Concattedrale_di_Sant'Andrea_(Veroli)|Concattedrale di Sant'Andrea (Veroli)]]|| [http://www.openstreetmap.org/?way=-2265789&mlon=13.4172979622&mlat=41.6908836484 -2265789]|| polygon|| 13.4172979622|| 41.6908836484
+|-
+|[[Concattedrale_di_San_Pietro_Apostolo_%28Feltre%29|Concattedrale di San Pietro Apostolo %28Feltre%29]]|| [http://www.openstreetmap.org/?way=149056173&mlon=11.9095779566&mlat=46.0167475837 149056173]|| polygon|| 11.9095779566|| 46.0167475837
+|-
+|[[Chiesa_di_Santa_Maria_del_Priorato_(Roma)|Chiesa di Santa Maria del Priorato (Roma)]]|| [http://www.openstreetmap.org/?way=202975627&mlon=12.4774141598&mlat=41.8833451865 202975627]|| polygon|| 12.4774141598|| 41.8833451865
+|-
+|[[Chiesa_di_San_Basilio_agli_Orti_Sallustiani|Chiesa di San Basilio agli Orti Sallustiani]]|| [http://www.openstreetmap.org/?way=203944602&mlon=12.4898708227&mlat=41.9049175114 203944602]|| polygon|| 12.4898708227|| 41.9049175114
+|-
+|[[Chiesa_di_San_Lorenzo_in_Miranda|Chiesa di San Lorenzo in Miranda]]|| [http://www.openstreetmap.org/?way=-1841086&mlon=12.4867572957&mlat=41.8922593067 -1841086]|| polygon|| 12.4867572957|| 41.8922593067
+|-
+|[[Chiesa_di_Santa_Maria_della_Provvidenza|Chiesa di Santa Maria della Provvidenza]]|| [http://www.openstreetmap.org/?way=36840583&mlon=15.105966235&mlat=37.6927389382 36840583]|| polygon|| 15.105966235|| 37.6927389382
+|-
+|[[Basilica_parrocchiale_dei_Santi_Pietro_e_Paolo|Basilica parrocchiale dei Santi Pietro e Paolo]]|| [http://www.openstreetmap.org/?way=23432370&mlon=12.459291309&mlat=41.8336810179 23432370]|| polygon|| 12.459291309|| 41.8336810179
+|-
+|[[Santuario_di_Nostra_Signora_di_Bonu_Ighinu|Santuario di Nostra Signora di Bonu Ighinu]]|| [http://www.openstreetmap.org/?way=163114693&mlon=8.64433266052&mlat=40.4472011727 163114693]|| polygon|| 8.64433266052|| 40.4472011727
+|-
+|[[Chiesa_di_Santa_Maria_in_Monterone|Chiesa di Santa Maria in Monterone]]|| [http://www.openstreetmap.org/?way=201835958&mlon=12.4755427462&mlat=41.896768915 201835958]|| polygon|| 12.4755427462|| 41.896768915
+|-
+|[[Chiesa_di_Sant'Antonio_(Faenza)|Chiesa di Sant'Antonio (Faenza)]]|| [http://www.openstreetmap.org/?way=151934243&mlon=11.8792403941&mlat=44.2848434654 151934243]|| polygon|| 11.8792403941|| 44.2848434654
+|-
+|[[Chiesa_di_Santa_Maria_del_Suffragio_(Milano)|Chiesa di Santa Maria del Suffragio (Milano)]]|| [http://www.openstreetmap.org/?way=37696585&mlon=9.21233554289&mlat=45.4626768409 37696585]|| polygon|| 9.21233554289|| 45.4626768409
+|-
+|[[Chiesa_di_San_Martino_%28Chiusi_della_Verna%29|Chiesa di San Martino %28Chiusi della Verna%29]]|| [http://www.openstreetmap.org/?node=1824788565&mlon=11.979511409&mlat=43.6989924352 1824788565]|| point|| 11.979511409|| 43.6989924352
+|-
+|[[Santuario_del_Carmelo|Santuario del Carmelo]]|| [http://www.openstreetmap.org/?way=124948424&mlon=9.26326499607&mlat=45.5924904726 124948424]|| polygon|| 9.26326499607|| 45.5924904726
+|-
+|[[Chiesa_di_San_Pietro_Martire_(Vigevano)|Chiesa di San Pietro Martire (Vigevano)]]|| [http://www.openstreetmap.org/?way=202139362&mlon=8.85596375949&mlat=45.3150691689 202139362]|| polygon|| 8.85596375949|| 45.3150691689
+|-
+|[[Cattedrale_di_Aosta|Cattedrale di Aosta]]|| [http://www.openstreetmap.org/?way=162259412&mlon=7.31809178579&mlat=45.7381199786 162259412]|| polygon|| 7.31809178579|| 45.7381199786
+|-
+|[[Duomo_di_Ferentino|Duomo di Ferentino]]|| [http://www.openstreetmap.org/?way=166127273&mlon=13.2560591577&mlat=41.6931444616 166127273]|| polygon|| 13.2560591577|| 41.6931444616
+|-
+|[[Chiesa_di_Santa_Maria_del_Rosario_in_Prati|Chiesa di Santa Maria del Rosario in Prati]]|| [http://www.openstreetmap.org/?way=185336124&mlon=12.4585664717&mlat=41.908380766 185336124]|| polygon|| 12.4585664717|| 41.908380766
+|-
+|[[Duomo_di_Venzone|Duomo di Venzone]]|| [http://www.openstreetmap.org/?way=36687412&mlon=13.1387709849&mlat=46.3328310198 36687412]|| polygon|| 13.1387709849|| 46.3328310198
+|-
+|[[Basilica_di_Sant'Agostino|Basilica di Sant'Agostino]]|| [http://www.openstreetmap.org/?way=114665339&mlon=12.8632693067&mlat=42.4044583611 114665339]|| polygon|| 12.8632693067|| 42.4044583611
+|-
+|[[Chiesa_di_Santa_Maria_Annunziata_a_Tor_de'_Specchi|Chiesa di Santa Maria Annunziata a Tor de' Specchi]]|| [http://www.openstreetmap.org/?way=125241565&mlon=12.4803773448&mlat=41.8934445764 125241565]|| polygon|| 12.4803773448|| 41.8934445764
+|-
+|[[Chiesa_di_Sant%27Agostina_Pietrantoni|Chiesa di Sant%27Agostina Pietrantoni]]|| [http://www.openstreetmap.org/?node=379726245&mlon=12.5783126569&mlat=41.942891482 379726245]|| point|| 12.5783126569|| 41.942891482
+|-
+|[[Chiesa_della_Santissima_Trinità_a_Villa_Chigi|Chiesa della Santissima Trinità a Villa Chigi]]|| [http://www.openstreetmap.org/?node=2309814825&mlon=13.4312451427&mlat=37.5217412924 2309814825]|| point|| 13.4312451427|| 37.5217412924
+|-
+|[[Battistero_lateranense|Battistero lateranense]]|| [http://www.openstreetmap.org/?way=44132631&mlon=12.504296333&mlat=41.8861430074 44132631]|| polygon|| 12.504296333|| 41.8861430074
+|-
+|[[Chiesa_della_Madonna_dei_Lumi|Chiesa della Madonna dei Lumi]]|| [http://www.openstreetmap.org/?way=182544397&mlon=11.042545202&mlat=43.4648052733 182544397]|| polygon|| 11.042545202|| 43.4648052733
+|-
+|[[Chiesa_di_San_Barnaba_(Venezia)|Chiesa di San Barnaba (Venezia)]]|| [http://www.openstreetmap.org/?way=138843464&mlon=12.3254524853&mlat=45.4330767124 138843464]|| polygon|| 12.3254524853|| 45.4330767124
+|-
+|[[Chiesa_di_San_Giuliano_dei_Fiamminghi|Chiesa di San Giuliano dei Fiamminghi]]|| [http://www.openstreetmap.org/?way=125831664&mlon=12.4756814131&mlat=41.8958653403 125831664]|| polygon|| 12.4756814131|| 41.8958653403
+|-
+|[[Duomo_of_Monza|Duomo of Monza]]|| [http://www.openstreetmap.org/?way=49804445&mlon=9.27579408065&mlat=45.5835915132 49804445]|| polygon|| 9.27579408065|| 45.5835915132
+|-
+|[[Chiesa_di_Santa_Maria_dei_Carmini|Chiesa di Santa Maria dei Carmini]]|| [http://www.openstreetmap.org/?way=138843914&mlon=12.3223037092&mlat=45.4333732756 138843914]|| polygon|| 12.3223037092|| 45.4333732756
+|-
+|[[Oratorio_di_San_Francesco_Saverio|Oratorio di San Francesco Saverio]]|| [http://www.openstreetmap.org/?way=130807646&mlon=12.4807587023&mlat=41.8991294009 130807646]|| polygon|| 12.4807587023|| 41.8991294009
+|-
+|[[Chiesa_di_San_Lazzaro_(Roma)|Chiesa di San Lazzaro (Roma)]]|| [http://www.openstreetmap.org/?node=575177361&mlon=12.4499610097&mlat=41.9154156663 575177361]|| point|| 12.4499610097|| 41.9154156663
+|-
+|[[Chiesa_di_San_Pantaleo_(Roma)|Chiesa di San Pantaleo (Roma)]]|| [http://www.openstreetmap.org/?way=60615619&mlon=12.4732281859&mlat=41.8971129378 60615619]|| polygon|| 12.4732281859|| 41.8971129378
+|-
+|[[Oratorio_di_San_Cristoforo|Oratorio di San Cristoforo]]|| [http://www.openstreetmap.org/?way=162773926&mlon=10.8575411063&mlat=43.4028535979 162773926]|| polygon|| 10.8575411063|| 43.4028535979
+|-
+|[[Chiesa_di_San_Bartolomeo_(Sasso_Pisano)|Chiesa di San Bartolomeo (Sasso Pisano)]]|| [http://www.openstreetmap.org/?way=163126052&mlon=10.8656093613&mlat=43.1680283042 163126052]|| polygon|| 10.8656093613|| 43.1680283042
+|-
+|[[Chiesa_di_San_Pancrazio_(Roma)|Chiesa di San Pancrazio (Roma)]]|| [http://www.openstreetmap.org/?way=102570527&mlon=12.3935084056&mlat=42.0195428453 102570527]|| polygon|| 12.3935084056|| 42.0195428453
+|-
+|[[Chiesa_di_San_Giovanni_Decollato_(Nepi)|Chiesa di San Giovanni Decollato (Nepi)]]|| [http://www.openstreetmap.org/?way=166399964&mlon=12.3501452253&mlat=42.2427692991 166399964]|| polygon|| 12.3501452253|| 42.2427692991
+|-
+|[[Chiesa_di_Santa_Maria_Addolorata_a_piazza_Buenos_Aires|Chiesa di Santa Maria Addolorata a piazza Buenos Aires]]|| [http://www.openstreetmap.org/?way=122598109&mlon=12.5008391429&mlat=41.9181168601 122598109]|| polygon|| 12.5008391429|| 41.9181168601
+|-
+|[[Chiesa_di_Santa_Maria_Formosa|Chiesa di Santa Maria Formosa]]|| [http://www.openstreetmap.org/?way=138804512&mlon=12.3410162409&mlat=45.4370210856 138804512]|| polygon|| 12.3410162409|| 45.4370210856
+|-
+|[[Chiesa_di_San_Nicola_da_Tolentino_(Roma)|Chiesa di San Nicola da Tolentino (Roma)]]|| [http://www.openstreetmap.org/?way=203944603&mlon=12.491475785&mlat=41.9052213315 203944603]|| polygon|| 12.491475785|| 41.9052213315
+|-
+|[[Chiesa_di_San_Simone_e_Immacolata_Concezione|Chiesa di San Simone e Immacolata Concezione]]|| [http://www.openstreetmap.org/?way=193031007&mlon=10.3232766011&mlat=43.515606816 193031007]|| polygon|| 10.3232766011|| 43.515606816
+|-
+|[[Basilica_di_San_Camillo_de_Lellis|Basilica di San Camillo de Lellis]]|| [http://www.openstreetmap.org/?way=203946467&mlon=12.4943457984&mlat=41.9070290316 203946467]|| polygon|| 12.4943457984|| 41.9070290316
+|-
+|[[Duomo_di_Murano|Duomo di Murano]]|| [http://www.openstreetmap.org/?way=142023249&mlon=12.3571671502&mlat=45.4574906593 142023249]|| polygon|| 12.3571671502|| 45.4574906593
+|-
+|[[Basilica_di_San_Marco|Basilica di San Marco]]|| [http://www.openstreetmap.org/?way=138800932&mlon=12.3398135037&mlat=45.4345513593 138800932]|| polygon|| 12.3398135037|| 45.4345513593
+|-
+|[[Cattedrale_di_Santa_Maria_Assunta_(Fano)|Cattedrale di Santa Maria Assunta (Fano)]]|| [http://www.openstreetmap.org/?node=2140878885&mlon=13.0156274492&mlat=43.8435405391 2140878885]|| point|| 13.0156274492|| 43.8435405391
+|-
+|[[Chiesa_di_Santa_Croce_e_San_Bonaventura_dei_Lucchesi|Chiesa di Santa Croce e San Bonaventura dei Lucchesi]]|| [http://www.openstreetmap.org/?way=202161466&mlon=12.4844381135&mlat=41.8996782677 202161466]|| polygon|| 12.4844381135|| 41.8996782677
+|-
+|[[Basilica_di_San_Nicola_in_Carcere|Basilica di San Nicola in Carcere]]|| [http://www.openstreetmap.org/?way=52919045&mlon=12.4799585053&mlat=41.8910964687 52919045]|| polygon|| 12.4799585053|| 41.8910964687
+|-
+|[[Santuario_di_Macereto|Santuario di Macereto]]|| [http://www.openstreetmap.org/?way=68458706&mlon=13.1156552532&mlat=42.9762244256 68458706]|| polygon|| 13.1156552532|| 42.9762244256
+|-
+|[[Oratorio_della_Madonna_del_Latte|Oratorio della Madonna del Latte]]|| [http://www.openstreetmap.org/?node=2218593737&mlon=8.54692348321&mlat=45.4371106449 2218593737]|| point|| 8.54692348321|| 45.4371106449
+|-
+|[[Chiesa_di_San_Michele_Arcangelo_(Volterra)|Chiesa di San Michele Arcangelo (Volterra)]]|| [http://www.openstreetmap.org/?way=162389650&mlon=10.8616569642&mlat=43.4025718441 162389650]|| polygon|| 10.8616569642|| 43.4025718441
+|-
+|[[Chiesa_di_Sant'Antonino_Martire_(Besazio)|Chiesa di Sant'Antonino Martire (Besazio)]]|| [http://www.openstreetmap.org/?way=173025872&mlon=8.95082562767&mlat=45.8738148357 173025872]|| polygon|| 8.95082562767|| 45.8738148357
+|-
+|[[Chiesa_della_Madonna_degli_Angeli_(Cannuzzo)|Chiesa della Madonna degli Angeli (Cannuzzo)]]|| [http://www.openstreetmap.org/?node=306027419&mlon=12.2395002914&mlat=44.2337485886 306027419]|| point|| 12.2395002914|| 44.2337485886
+|-
+|[[Chiesa_di_San_Salvatore_alle_Coppelle|Chiesa di San Salvatore alle Coppelle]]|| [http://www.openstreetmap.org/?way=89985340&mlon=12.4760527814&mlat=41.9006308882 89985340]|| polygon|| 12.4760527814|| 41.9006308882
+|-
+|[[Chiesa_dei_Santi_Benedetto_e_Scolastica_all'Argentina|Chiesa dei Santi Benedetto e Scolastica all'Argentina]]|| [http://www.openstreetmap.org/?way=125831702&mlon=12.4762721073&mlat=41.8968178643 125831702]|| polygon|| 12.4762721073|| 41.8968178643
+|-
+|[[Duomo_di_Cefalù|Duomo di Cefalù]]|| [http://www.openstreetmap.org/?way=71543673&mlon=14.0235681717&mlat=38.0398232128 71543673]|| polygon|| 14.0235681717|| 38.0398232128
+|-
+|[[Chiesa_di_Santa_Maria_di_Nazareth_(Venezia)|Chiesa di Santa Maria di Nazareth (Venezia)]]|| [http://www.openstreetmap.org/?way=138843459&mlon=12.3219626237&mlat=45.4414575887 138843459]|| polygon|| 12.3219626237|| 45.4414575887
+|-
+|[[Chiesa_di_Santa_Maria_di_Babilone|Chiesa di Santa Maria di Babilone]]|| [http://www.openstreetmap.org/?node=794002647&mlon=8.10199654681&mlat=45.4050563634 794002647]|| point|| 8.10199654681|| 45.4050563634
+|-
+|[[Chiesa_(Formazza)|Chiesa (Formazza)]]|| [http://www.openstreetmap.org/?node=1193609747&mlon=8.42755238382&mlat=46.3538646813 1193609747]|| point|| 8.42755238382|| 46.3538646813
+|-
+|[[Chiesa_di_San_Filippo_Neri_(Faenza)|Chiesa di San Filippo Neri (Faenza)]]|| [http://www.openstreetmap.org/?way=210776041&mlon=11.8805573778&mlat=44.2871799521 210776041]|| polygon|| 11.8805573778|| 44.2871799521
+|-
+|[[Chiesa_dei_Santi_Andrea_e_Lorenzo|Chiesa dei Santi Andrea e Lorenzo]]|| [http://www.openstreetmap.org/?way=163958055&mlon=11.0063784616&mlat=43.2966025617 163958055]|| polygon|| 11.0063784616|| 43.2966025617
+|-
+|[[Chiesa_di_San_Siro_%28Genova%29|Chiesa di San Siro %28Genova%29]]|| [http://www.openstreetmap.org/?way=43873804&mlon=8.93016103225&mlat=44.4116247126 43873804]|| polygon|| 8.93016103225|| 44.4116247126
+|-
+|[[Chiesa_di_Sant'Elia_(Viggiù)|Chiesa di Sant'Elia (Viggiù)]]|| [http://www.openstreetmap.org/?node=1232984771&mlon=8.89788942567&mlat=45.8781625875 1232984771]|| point|| 8.89788942567|| 45.8781625875
+|-
+|[[Chiesa_di_Santa_Maria_del_Carmine_(Milano)|Chiesa di Santa Maria del Carmine (Milano)]]|| [http://www.openstreetmap.org/?way=43705671&mlon=9.18599912253&mlat=45.47045621 43705671]|| polygon|| 9.18599912253|| 45.47045621
+|-
+|[[Pieve_di_Santo_Stefano_(Pisignano)|Pieve di Santo Stefano (Pisignano)]]|| [http://www.openstreetmap.org/?way=181583476&mlon=12.2736396144&mlat=44.242644257 181583476]|| polygon|| 12.2736396144|| 44.242644257
+|-
+|[[Cattedrale_di_Santa_Maria_(Anagni)|Cattedrale di Santa Maria (Anagni)]]|| [http://www.openstreetmap.org/?way=161992191&mlon=13.1619655567&mlat=41.7428419403 161992191]|| polygon|| 13.1619655567|| 41.7428419403
+|-
+|[[Chiesa_di_Sant'Umiltà|Chiesa di Sant'Umiltà]]|| [http://www.openstreetmap.org/?way=151931672&mlon=11.8774054075&mlat=44.2869266929 151931672]|| polygon|| 11.8774054075|| 44.2869266929
+|-
+|[[Santuario_della_Madonna_del_Monte|Santuario della Madonna del Monte]]|| [http://www.openstreetmap.org/?way=22789353&mlon=8.9636584819&mlat=44.4128283618 22789353]|| polygon|| 8.9636584819|| 44.4128283618
+|-
+|[[Chiesa_di_Sant'Ambrogio_della_Massima|Chiesa di Sant'Ambrogio della Massima]]|| [http://www.openstreetmap.org/?node=279509239&mlon=12.4778524417&mlat=41.8935961815 279509239]|| point|| 12.4778524417|| 41.8935961815
+|-
+|[[Chiesa_di_San_Giovanni_Decollato_(Roma)|Chiesa di San Giovanni Decollato (Roma)]]|| [http://www.openstreetmap.org/?way=124077476&mlon=12.4817683221&mlat=41.8898625675 124077476]|| polygon|| 12.4817683221|| 41.8898625675
+|-
+|[[Abbazia_di_San_Giovanni_in_Argentella|Abbazia di San Giovanni in Argentella]]|| [http://www.openstreetmap.org/?way=158728709&mlon=12.7523948255&mlat=42.0550825081 158728709]|| polygon|| 12.7523948255|| 42.0550825081
+|-
+|[[Duomo_di_Fossano|Duomo di Fossano]]|| [http://www.openstreetmap.org/?way=179179044&mlon=7.72568303567&mlat=44.5491919614 179179044]|| polygon|| 7.72568303567|| 44.5491919614
+|-
+|[[Abbazia_di_San_Magno|Abbazia di San Magno]]|| [http://www.openstreetmap.org/?way=62220682&mlon=13.3842231821&mlat=41.3777515533 62220682]|| polygon|| 13.3842231821|| 41.3777515533
+|-
+|[[Duomo_di_Novara|Duomo di Novara]]|| [http://www.openstreetmap.org/?way=157852442&mlon=8.61974638669&mlat=45.4456465295 157852442]|| polygon|| 8.61974638669|| 45.4456465295
+|-
+|[[Chiesa_di_San_Lorenzo_(Torino)|Chiesa di San Lorenzo (Torino)]]|| [http://www.openstreetmap.org/?way=191215489&mlon=7.68486065828&mlat=45.0721261182 191215489]|| polygon|| 7.68486065828|| 45.0721261182
+|-
+|[[Chiesa_di_Santa_Maria_del_Pianto_(Roma)|Chiesa di Santa Maria del Pianto (Roma)]]|| [http://www.openstreetmap.org/?way=125374926&mlon=12.4764550846&mlat=41.8931239456 125374926]|| polygon|| 12.4764550846|| 41.8931239456
+|-
+|[[Chiesa_di_Ognissanti_(chiesa_anglicana_di_Roma)|Chiesa di Ognissanti (chiesa anglicana di Roma)]]|| [http://www.openstreetmap.org/?way=201750571&mlon=12.4787745211&mlat=41.9082924508 201750571]|| polygon|| 12.4787745211|| 41.9082924508
+|-
+|[[Chiesa_di_Sant%27Agata_alla_Rocca|Chiesa di Sant%27Agata alla Rocca]]|| [http://www.openstreetmap.org/?node=1824800651&mlon=11.9481377477&mlat=43.6997450935 1824800651]|| point|| 11.9481377477|| 43.6997450935
+|-
+|[[Chiesa_di_Ognissanti_(Padova)|Chiesa di Ognissanti (Padova)]]|| [http://www.openstreetmap.org/?way=131997525&mlon=11.8964109918&mlat=45.4070168388 131997525]|| polygon|| 11.8964109918|| 45.4070168388
+|-
+|[[Chiesa_di_San_Tomà|Chiesa di San Tomà]]|| [http://www.openstreetmap.org/?way=138842879&mlon=12.3277726925&mlat=45.4359241435 138842879]|| polygon|| 12.3277726925|| 45.4359241435
+|-
+|[[Chiesa-oratorio_di_San_Giuseppe_(Ligornetto)|Chiesa-oratorio di San Giuseppe (Ligornetto)]]|| [http://www.openstreetmap.org/?way=173025870&mlon=8.96089530478&mlat=45.8651084296 173025870]|| polygon|| 8.96089530478|| 45.8651084296
+|-
+|[[Monastero_di_San_Giovanni_Therestis|Monastero di San Giovanni Therestis]]|| [http://www.openstreetmap.org/?node=1345310265&mlon=16.4712154802&mlat=38.4949479506 1345310265]|| point|| 16.4712154802|| 38.4949479506
+|-
+|[[Chiesa_di_San_Martino_(Viggiù)|Chiesa di San Martino (Viggiù)]]|| [http://www.openstreetmap.org/?way=140736204&mlon=8.90689963093&mlat=45.8682690207 140736204]|| polygon|| 8.90689963093|| 45.8682690207
+|-
+|[[Chiesa_di_Santa_Maria_ad_Nives_(Faenza)|Chiesa di Santa Maria ad Nives (Faenza)]]|| [http://www.openstreetmap.org/?way=151931105&mlon=11.8758905377&mlat=44.2849218957 151931105]|| polygon|| 11.8758905377|| 44.2849218957
+|-
+|[[Chiesa_di_Santa_Maria_alla_Fontana|Chiesa di Santa Maria alla Fontana]]|| [http://www.openstreetmap.org/?way=40437374&mlon=9.18774354017&mlat=45.4924975505 40437374]|| polygon|| 9.18774354017|| 45.4924975505
+|-
+|[[Concattedrale_di_San_Paolo|Concattedrale di San Paolo]]|| [http://www.openstreetmap.org/?way=161997387&mlon=13.3439732017&mlat=41.7248114777 161997387]|| polygon|| 13.3439732017|| 41.7248114777
+|-
+|[[Chiesa_di_Santa_Maria_della_Consolazione_(Roma)|Chiesa di Santa Maria della Consolazione (Roma)]]|| [http://www.openstreetmap.org/?way=52923505&mlon=12.4831282467&mlat=41.8913876426 52923505]|| polygon|| 12.4831282467|| 41.8913876426
+|-
+|[[Chiesa_di_San_Francesco_(Alatri)|Chiesa di San Francesco (Alatri)]]|| [http://www.openstreetmap.org/?way=161997384&mlon=13.3421103065&mlat=41.7256838314 161997384]|| polygon|| 13.3421103065|| 41.7256838314
+|-
+|[[Basilica_di_San_Marino|Basilica di San Marino]]|| [http://www.openstreetmap.org/?way=59305134&mlon=12.4468571542&mlat=43.9371580188 59305134]|| polygon|| 12.4468571542|| 43.9371580188
+|-
+|[[Chiesa_di_Sant'Omobono|Chiesa di Sant'Omobono]]|| [http://www.openstreetmap.org/?way=111669473&mlon=12.4813713274&mlat=41.8907595369 111669473]|| polygon|| 12.4813713274|| 41.8907595369
+|-
+|[[Chiesa_di_San_Salvatore_(Brescia)|Chiesa di San Salvatore (Brescia)]]|| [http://www.openstreetmap.org/?way=219083640&mlon=10.2285719826&mlat=45.5397847329 219083640]|| polygon|| 10.2285719826|| 45.5397847329
+|-
+|[[Chiesa_di_Santa_Maria_in_Vivario|Chiesa di Santa Maria in Vivario]]|| [http://www.openstreetmap.org/?node=1879705333&mlon=12.6797532933&mlat=41.8096722494 1879705333]|| point|| 12.6797532933|| 41.8096722494
+|-
+|[[Chiesa_di_San_Benedetto_(Roma)|Chiesa di San Benedetto (Roma)]]|| [http://www.openstreetmap.org/?way=219715750&mlon=12.4786174687&mlat=41.8715265024 219715750]|| polygon|| 12.4786174687|| 41.8715265024
+|-
+|[[Santuario_di_San_Girolamo_Emiliani|Santuario di San Girolamo Emiliani]]|| [http://www.openstreetmap.org/?way=174392317&mlon=9.42931156625&mlat=45.811161296 174392317]|| polygon|| 9.42931156625|| 45.811161296
+|-
+|[[Chiesa_di_Sant'Isidoro_a_Capo_le_Case|Chiesa di Sant'Isidoro a Capo le Case]]|| [http://www.openstreetmap.org/?way=202072472&mlon=12.487055166&mlat=41.9060203812 202072472]|| polygon|| 12.487055166|| 41.9060203812
+|-
+|[[Chiesa_di_San_Francesco_di_Paola_(Roma)|Chiesa di San Francesco di Paola (Roma)]]|| [http://www.openstreetmap.org/?way=157407150&mlon=12.4914317849&mlat=41.8938064812 157407150]|| polygon|| 12.4914317849|| 41.8938064812
+|-
+|[[Chiesa_del_Sacro_Cuore_del_Suffragio|Chiesa del Sacro Cuore del Suffragio]]|| [http://www.openstreetmap.org/?way=202704935&mlon=12.4722821549&mlat=41.9042018994 202704935]|| polygon|| 12.4722821549|| 41.9042018994
+|-
+|[[Chiesa_di_San_Giacomo_in_Augusta|Chiesa di San Giacomo in Augusta]]|| [http://www.openstreetmap.org/?way=60517417&mlon=12.4772830825&mlat=41.9077542337 60517417]|| polygon|| 12.4772830825|| 41.9077542337
+|-
+|[[Chiesa_di_San_Giacomo_Maggiore_(Reggio_Emilia)|Chiesa di San Giacomo Maggiore (Reggio Emilia)]]|| [http://www.openstreetmap.org/?way=167934203&mlon=10.7136439387&mlat=44.6739485093 167934203]|| polygon|| 10.7136439387|| 44.6739485093
+|-
+|[[Chiesa_di_Santa_Sofia_(Benevento)|Chiesa di Santa Sofia (Benevento)]]|| [http://www.openstreetmap.org/?way=192771155&mlon=14.7812422614&mlat=41.1305997153 192771155]|| polygon|| 14.7812422614|| 41.1305997153
+|-
+|[[Chiesa_delle_Santissime_Stimmate_di_San_Francesco|Chiesa delle Santissime Stimmate di San Francesco]]|| [http://www.openstreetmap.org/?way=125566927&mlon=12.4776687271&mlat=41.8963158736 125566927]|| polygon|| 12.4776687271|| 41.8963158736
+|-
+|[[_	Abbazia_di_Sant'Antimo| 	Abbazia di Sant'Antimo]]|| [http://www.openstreetmap.org/?way=157841605&mlon=11.5157152587&mlat=42.9996254397 157841605]|| polygon|| 11.5157152587|| 42.9996254397
+|-
+|[[Chiesa_di_San_Giorgio_dei_Greci|Chiesa di San Giorgio dei Greci]]|| [http://www.openstreetmap.org/?way=138801661&mlon=12.3448240523&mlat=45.4354278616 138801661]|| polygon|| 12.3448240523|| 45.4354278616
+|-
+|[[Itri#Santa_Maria_di_Loreto|Itri#Santa Maria di Loreto]]|| [http://www.openstreetmap.org/?way=160678450&mlon=13.5273005339&mlat=41.2911367902 160678450]|| polygon|| 13.5273005339|| 41.2911367902
+|-
+|[[Chiesa_di_Santa_Maria_nascente_(Viggiù)|Chiesa di Santa Maria nascente (Viggiù)]]|| [http://www.openstreetmap.org/?way=140422246&mlon=8.90511797331&mlat=45.871776629 140422246]|| polygon|| 8.90511797331|| 45.871776629
+|-
+|[[Chiesa_di_Santo_Stefano_(Viggiù)|Chiesa di Santo Stefano (Viggiù)]]|| [http://www.openstreetmap.org/?way=158760526&mlon=8.90476868615&mlat=45.8711711866 158760526]|| polygon|| 8.90476868615|| 45.8711711866
+|-
+|[[Abbazia_di_San_Gallo_%28Moggio_Udinese%29|Abbazia di San Gallo %28Moggio Udinese%29]]|| [http://www.openstreetmap.org/?way=-159201&mlon=13.1882746773&mlat=46.4043554997 -159201]|| polygon|| 13.1882746773|| 46.4043554997
+|-
+|[[Chiesa_evangelica_battista_ai_Monti|Chiesa evangelica battista ai Monti]]|| [http://www.openstreetmap.org/?way=201630119&mlon=12.495246802&mlat=41.8978081125 201630119]|| polygon|| 12.495246802|| 41.8978081125
+|-
+|[[Chiesa_di_Santa_Rita_da_Cascia_alle_Vergini|Chiesa di Santa Rita da Cascia alle Vergini]]|| [http://www.openstreetmap.org/?way=131235669&mlon=12.4829291668&mlat=41.8997564672 131235669]|| polygon|| 12.4829291668|| 41.8997564672
+|-
+|[[Basilica_di_Sant'Agostino|Basilica di Sant'Agostino]]|| [http://www.openstreetmap.org/?way=25902534&mlon=9.20081942345&mlat=45.4885079066 25902534]|| polygon|| 9.20081942345|| 45.4885079066
+|-
+|[[Chiesa_di_Santa_Maria_Assunta_in_cielo|Chiesa di Santa Maria Assunta in cielo]]|| [http://www.openstreetmap.org/?node=1909980758&mlon=16.4518166311&mlat=38.4759607919 1909980758]|| point|| 16.4518166311|| 38.4759607919
+|-
+|[[Chiesa_del_Gesù_(Frascati)|Chiesa del Gesù (Frascati)]]|| [http://www.openstreetmap.org/?way=161896549&mlon=12.6807919673&mlat=41.8084518696 161896549]|| polygon|| 12.6807919673|| 41.8084518696
+|-
+|[[Tempio_Valdese_(Milano)|Tempio Valdese (Milano)]]|| [http://www.openstreetmap.org/?way=43626244&mlon=9.19684256525&mlat=45.461547209 43626244]|| polygon|| 9.19684256525|| 45.461547209
+|-
+|[[Chiesa_di_Santa_Maria_dei_Miracoli_(Venezia)|Chiesa di Santa Maria dei Miracoli (Venezia)]]|| [http://www.openstreetmap.org/?way=138800840&mlon=12.3392482266&mlat=45.4394995792 138800840]|| polygon|| 12.3392482266|| 45.4394995792
+|-
+|[[Chiesa_di_Sant'Antonio_Abate_(Venzone)|Chiesa di Sant'Antonio Abate (Venzone)]]|| [http://www.openstreetmap.org/?way=36687425&mlon=13.1774376947&mlat=46.3387679902 36687425]|| polygon|| 13.1774376947|| 46.3387679902
+|-
+|[[Chiesa_di_San_Maurizio_al_Monastero_Maggiore|Chiesa di San Maurizio al Monastero Maggiore]]|| [http://www.openstreetmap.org/?way=46103655&mlon=9.17893494488&mlat=45.4653183451 46103655]|| polygon|| 9.17893494488|| 45.4653183451
+|-
+|[[Chiesa_di_Sant'Ignazio_di_Loyola_in_Campo_Marzio|Chiesa di Sant'Ignazio di Loyola in Campo Marzio]]|| [http://www.openstreetmap.org/?way=23840659&mlon=12.4797883874&mlat=41.8988147662 23840659]|| polygon|| 12.4797883874|| 41.8988147662
+|-
+|}

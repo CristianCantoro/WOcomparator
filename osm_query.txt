@@ -1,0 +1,503 @@
+138843630,Chiesa San Marcuola,it:Chiesa di San Marcuola,polygon
+44116050,Chiesa di Sant'Antonio in Boccadasse,it:Chiesa di Sant'Antonio in Boccadasse,polygon
+-1892856,Basilica di San Marco,it:Basilica di San Marco Evangelista al Campidoglio,line
+154856677,Chiesa del Redentore,it:Chiesa del Redentore,polygon
+138183043,Cattedrale San Pietro Apostolo,it:Cattedrale di San Pietro (Frascati),polygon
+82166004,Santo Volto,http://it.wikipedia.org/wiki/Chiesa_del_Santo_Volto_%28Torino%29,polygon
+166060331,Chiesa del Santissimo Crocifisso,it:Chiesa del Santissimo Crocifisso (San Miniato),polygon
+163742943,Pieve dei Santi Jacopo e Filippo,it:Pieve dei Santi Jacopo e Filippo,polygon
+138804531,San Francesco della Vigna,it:Chiesa di San Francesco della Vigna,polygon
+52458908,San Marcello al Corso,it:Chiesa di San Marcello al Corso,polygon
+146026711,Chiesa di Santa Maria delle Grazie,it:Chiesa di Santa Maria delle Grazie (Zafferana Etnea),polygon
+-1686645,San Paolo Maggiore,http://it.wikipedia.org/wiki/Basilica_di_San_Paolo_Maggiore,polygon
+138803298,Chiesa di Santa Maria della Pieta,it:Chiesa della Pietà (Venezia),polygon
+183993508,Addolorata alla Pigna,it:Chiesa dell'Addolorata alla Pigna,polygon
+121984159,Chiesa di Santa Caterina,it:Chiesa di Santa Caterina (Livorno),polygon
+203501362,Cuba bizantina,http://it.wikipedia.org/wiki/Cuba_bizantina,polygon
+160680006,Santa Maria Maggiore,http://it.wikipedia.org/wiki/Itri#Santa_Maria_Maggiore,polygon
+1170709620,Santa Maria De Finibus Terrae,http://it.wikipedia.org/wiki/Santa_Maria_di_Leuca#Basilica_.22Santa_Maria_De_Finibus_Terrae.22,point
+138841819,Basilica di S. Maria Gloriosa dei Frari,de:Santa Maria Gloriosa dei Frari,polygon
+45671470,Santa Maria presso San Satiro,it:Chiesa di Santa Maria presso San Satiro,polygon
+166057438,Cattedrale di Santa Maria Assunta e di San Genesio,it:Cattedrale di Santa Maria Assunta e di San Genesio,polygon
+162389647,Battisterio,it:Battistero di San Giovanni (Volterra),polygon
+164912571,Pieve di San Frediano,it:Pieve di San Frediano a Montignoso,polygon
+176657474,Chiesa di S. Martino,it:Chiesa di San Martino (Burano),polygon
+25619192,Basilica dei Ss. Ambrogio e Carlo al Corso,it:Basilica dei Santi Ambrogio e Carlo al Corso,polygon
+60047967,Collegiata di Sant'Agata,it:Collegiata di Sant'Agata (Santhià),polygon
+-326080,Basilica di S. Clemente al Laterano,it:Basilica di San Clemente al Laterano,polygon
+137827225,San Zeno,it:Chiesa_di_San_Zeno_(Pisa),polygon
+139900092,San Crisogono,it:Basilica di San Crisogono,polygon
+153593152,Chiesa di San Matteo,it:Chiesa di San Matteo (Livorno),polygon
+185307560,Duomo dei Santi Marco evangelista e Prosdocimo vescovo,it:Duomo di Portobuffolè,polygon
+165090405,Chiesa di San Celso,it:Santa Maria presso San Celso#Chiesa di San Celso,polygon
+203001006,Santa Maria dell'Orto,it:Chiesa di Santa Maria dell'Orto,polygon
+163104507,Arcipretura Santi Jacopo e Martino,it:Chiesa dei Santi Jacopo e Martino,polygon
+202027320,San Salvatore ai Monti,it:Chiesa di San Salvatore ai Monti,polygon
+123122218,San Lorenzo Maggiore,http://it.wikipedia.org/wiki/Basilica_di_San_Lorenzo_Maggiore,polygon
+2144306208,Chiesa di San Miniato in Marcianella,it:Chiesa_di_San_Miniato_in_Marcianella,point
+165230084,Santi Bartolomeo e Silvestro,it:Chiesa dei Santi Bartolomeo e Silvestro,polygon
+209428989,Santuario di San Martino,it:Santuario di San Martino,polygon
+25400176,Basilica di S. Maria sopra Minerva,it:Basilica di Santa Maria sopra Minerva,polygon
+140422241,Chiesa del Rosario,it:Chiesa della Madonna della Croce (Viggiù),polygon
+201721148,Santi Vincenzo e Anastasio a Fontana di Trevi,it:Chiesa dei Santi Vincenzo e Anastasio a Trevi,polygon
+612207391,Chiesa di S. Marco in S. Girolamo,it:Chiesa di San Marco in San Girolamo,point
+29181216,Chiesa Nuova,it:Chiesa Nuova,polygon
+143621795,Cattedrale di Santa Maria Assunta,it:Duomo di Pescia,polygon
+165253165,Chiesa di San Martino,it:Chiesa di San Martino (Chiusdino),polygon
+156496345,Chiesa del Sacro Cuore di Gesù agonizzante,it:Chiesa del Sacro Cuore di Gesù agonizzante,polygon
+-1850143,San Teodoro al Palatino,it:Chiesa di San Teodoro al Palatino,polygon
+202304431,Santa Maria d'Itria,it:Chiesa di Santa Maria d'Itria,polygon
+919476275,Santa Maria Annunciata in Chiesa Rossa,http://en.wikipedia.org/wiki/Santa_Maria_Annunciata_in_Chiesa_Rossa,point
+-2956899,Cattedrale di S. Maria Annunciata,it:Cattedrale di Santa Maria Annunciata,polygon
+-1767590,Santa Maria Antiqua,it:Chiesa di Santa Maria Antiqua,polygon
+92402804,Santuario San Michele Arcangelo,it:Santuario di San Michele Arcangelo,polygon
+762754865,Chiesa di San Giovanni Battista,it:Chiesa di San Giovanni Battista (Livorno),point
+1407107690,Chiesa di S. Maria Nova,it:Chiesa di Santa Maria Nova (Vicenza),point
+104686433,Chiesa di S. Trovaso,de:San Trovaso,polygon
+200427191,San Pietro in Monastero,it:Ceson di San Pietro in Valle,polygon
+152707338,Santa Maria Assunta,it:Cattedrale_di_Santa_Maria_Assunta_(Vittorio_Veneto),polygon
+104258465,Abbazia di Piona,it:Priorato di Piona,polygon
+203136381,San Giovanni Battista dei Genovesi,it:Chiesa di San Giovanni Battista dei Genovesi,polygon
+203947126,San Bernardo alle Terme,it:Chiesa di San Bernardo alle Terme,polygon
+60616956,Santissimi Nomi di Gesù e Maria in Via Lata,it:Chiesa di Gesù e Maria (Roma),polygon
+-1840091,Tempio Maggiore di Roma,en:Great Synagogue of Rome,polygon
+123028910,Chiesa dei Girolamini,http://it.wikipedia.org/wiki/Chiesa_dei_Girolamini,polygon
+46181316,Chiesa di San Vicenzo in Prato,it:Basilica di San Vincenzo in Prato,polygon
+164347698,Chiesa Sacro Cuore - Herz-Jesu-Kirche,de:Herz-Jesu-Kirche (Bozen),polygon
+357606439,Basilica di S. Pietro al Monte,it:Abbazia di San Pietro al Monte,point
+185279809,Cattedrale della Natività di Maria,it:Cattedrale della Natività di Maria di Monte Oliveto Maggiore,polygon
+124282254,Sant’Eligio dei Ferrari,it:Chiesa di Sant'Eligio dei Ferrari,polygon
+174434994,Santissima Annunziata,it:Chiesa della Santissima Annunziata (Pescia),polygon
+164454518,Collegiata di Santa Maria Maggiore,it:Collegiata di Santa Maria Maggiore (Alatri),polygon
+215289671,Sacellum Sixtinum,en:Sistine Chapel,polygon
+162407936,Chiesa dei Santi Giusto e Clemente,it:Chiesa dei Santi Giusto e Clemente (San Giusto Nuovo),polygon
+73881812,Duomo di S. Maria Assunta,it:Duomo di Cremona,polygon
+165879085,Sant'Andrea,it:Chiesa di Sant'Andrea (Palaia),polygon
+165253167,Pieve di San Michele Arcangelo (Prepositura),it:Prepositura di San Michele Arcangelo (Chiusdino),polygon
+138841815,San Nicolò da Tolentino,de:San Nicola da Tolentino (Venedig),polygon
+60517021,Santa Maria dei Miracoli,it:Chiesa di Santa Maria dei Miracoli (Roma),polygon
+-2013076,Basilica Sancti Petri,en:St. Peter's Basilica,line
+34349778,Basilica di Santa Maria degli Angeli,en:Basilica of Santa Maria degli Angeli,polygon
+202880841,Basilica dei Ss. Quattro Coronati,it:Basilica dei Santi Quattro Coronati,polygon
+149675315,Cattedrale di Santa Maria Assunta,it:Duomo di Spoleto,polygon
+183326738,Sant'Angelo a Segno,it:Chiesa di Sant'Angelo a Segno,polygon
+26694641,Chiesa di Sant'Eustorgio,it:Chiesa di Sant'Eustorgio (Arcore),polygon
+1815327957,Chiesa dei Santi Rocco e Domenico,it:Chiesa dei Santi Rocco e Domenico,point
+60740445,San Maurizio,http://it.wikipedia.org/wiki/File:Chiesa_di_San_Maurizio_a_Pinerolo_TO_rectilinear.jpg,polygon
+139378298,Ossario di San Martino della Battaglia,http://it.wikipedia.org/wiki/Ossario_di_San_Martino,polygon
+204693129,Chiesa di San Giorgio,it:Chiesa_di_San_Giorgio_(Portofino),polygon
+131235435,Oratorio del Crocifisso,it:Oratorio del Crocifisso,polygon
+-326010,Basilica di S. Prassede,it:Basilica di Santa Prassede,polygon
+60678483,Sant'Atanasio,it:Chiesa di Sant'Atanasio (Roma),polygon
+79299284,Santi Alberto e Teresa,it:Chiesa dei Santi Alberto e Teresa,polygon
+138800730,Basilica di San Pietro di Castello,it:Basilica di San Pietro di Castello,polygon
+93117520,Rotonda di San Lorenzo,it:Rotonda di San Lorenzo,polygon
+83080051,Chiesa di San Martino,it:Chiesa_di_San_Martino_(Portofino),polygon
+202980177,Sant'Andrea dei Vascellari,it:Chiesa di Sant'Andrea dei Vascellari,polygon
+201882369,Basilica di S. Pietro in Vincoli,it:Basilica di San Pietro in Vincoli,polygon
+217009874,Basilica Santuario dei Santi Vittore e Corona,it:Basilica_Santuario_dei_Santi_Vittore_e_Corona,polygon
+219089974,Chiesa di San Salvatore,it:Chiesa di San Salvatore (Spoleto),polygon
+109080568,Chiesa di San Tommaso,it:Chiesa di San Tommaso (Briga Novarese),polygon
+-1892863,Santissimo Nome di Maria al Foro Traiano,en:Santissimo Nome di Maria al Foro Traiano,polygon
+203946249,Santa Maria Immacolata a Via Veneto,it:Chiesa di Santa Maria Immacolata a via Veneto,polygon
+50842360,Basilica di S. Sabina all'Aventino,it:Basilica di Santa Sabina,polygon
+2231372340,Chiesa di San Michele Arcangelo,it:Chiesa di San Michele Arcangelo (Gionzana),point
+202879042,San Tommaso in Formis all’Arco di Dolabella,it:Chiesa di San Tommaso in Formis,polygon
+111736197,San Lorenzo in Piscibus,it:San Lorenzo in Piscibus (diaconia),polygon
+182495737,Chiesa di San Jacopo al Tempio,it:Chiesa di San Jacopo al Tempio,polygon
+24971631,Basilica San Nazaro in Brolo,it:Basilica di San Nazaro in Brolo,polygon
+53274384,Cattedrale dell'Assunta,it:Duomo di Pienza,polygon
+164077004,Abbazia di San Pietro a Cerreto,it:Abbazia di San Pietro a Cerreto,polygon
+166057440,Chiesa di San Francesco,it:Chiesa di San Francesco (San Miniato),polygon
+138894788,Cattedrale di S. Maria Annunciata,it:Cattedrale di Santa Maria Annunciata,polygon
+25369505,Basilica della Santissima Annunziata del Vastato,http://it.wikipedia.org/wiki/Basilica_della_Santissima_Annunziata_del_Vastato,polygon
+48963529,San Martino Vescovo,it:Chiesa di San Martino Vescovo (Roccatederighi),polygon
+174330402,San Francesco,it:Chiesa di San Francesco (Pescia),polygon
+1670014426,Chiesa della Santissima Annunziata (Livorno),it:Chiesa della Santissima Annunziata (Livorno),point
+267416891,Santa Caterina del Sasso,it:Eremo di Santa Caterina del Sasso,point
+158591056,Sant'Apollinare in Classe,it:Basilica di Sant'Apollinare in Classe,polygon
+38553028,Basilica di Sant'Andrea,it:Basilica di Sant'Andrea (Mantova),polygon
+202339987,Basilica di S. Andrea delle Fratte,it:Basilica di Sant'Andrea delle Fratte,polygon
+44899340,Chiesa dei Ss. Barnaba e Paolo,it:Chiesa di San Barnaba (Milano),polygon
+44601409,Basilica di San Carlo al Corso,it:Chiesa di San Carlo al Corso (Milano),polygon
+-2449920,dell'Addolorata,it:Chiesa_dell%27Addolorata_%28Napoli%29,polygon
+164908477,Chiesa di San Vivaldo,it:Chiesa di San Vivaldo,polygon
+151584968,San Lorenzo in Panisperna,it:Chiesa di San Lorenzo in Panisperna,polygon
+35306502,Mausoleo di Santa Costanza,it:Mausoleo di Santa Costanza,polygon
+67604168,Abbazia di Santa Maria Assunta in Maguzzano,it:Chiesa di Santa Maria Assunta (Maguzzano),polygon
+160585397,Chiesa di San Pietro apostolo,it:Chiesa di San Pietro apostolo (Nepi),polygon
+-2265789,Concattedrale di Sant'Andrea,it:Concattedrale di Sant'Andrea (Veroli),polygon
+182515125,Chiesa di San Pietro in Forliano,it:Chiesa di San Pietro in Forliano,polygon
+27596084,Chiesa di San Pietro in Gessate,it:Chiesa di San Pietro in Gessate,polygon
+149056173,Concattedrale di San Pietro Apostolo,https://it.wikipedia.org/wiki/Concattedrale_di_San_Pietro_Apostolo_%28Feltre%29,polygon
+131564943,San Giacomo alla Lungara,it:Chiesa di San Giacomo alla Lungara,polygon
+202975627,Chiesa di S. Maria del Priorato,it:Chiesa di Santa Maria del Priorato (Roma),polygon
+138843762,San Stae,de:San Stae,polygon
+138801077,,it:Chiesa di San Giovanni in Bragora,polygon
+203944602,San Basilio agli Orti Sallustiani,it:Chiesa di San Basilio agli Orti Sallustiani,polygon
+42106021,San Marco,it:Chiesa di San Marco (Milano),polygon
+-1841086,San Lorenzo de’ Speziali in Miranda,it:Chiesa di San Lorenzo in Miranda,polygon
+36840583,Chiesa Madre di Santa Maria della Provvidenza,it:Chiesa di Santa Maria della Provvidenza,polygon
+168882216,Chiesa di San Donato,it:Chiesa di San Donato (Terricciola),polygon
+23432370,Basilica parrocchiale dei Santi Pietro e Paolo,it:Basilica parrocchiale dei Santi Pietro e Paolo,polygon
+168499486,Cappella di Sant'Edoardo,it:Villa Corridi,polygon
+161484221,Pieve di San Martino,it:Pieve di San Martino (Palaia),polygon
+132728680,Chiesa di Nostra Signora del Rosario,it:Chiesa_di_Nostra_Signora_del_Rosario_(Genova),polygon
+98124749,Chiesa di San Martino e Rosa,it:Chiesa dei Santi Martino e Rosa,polygon
+99368279,Santa Caterina dei Funari,it:Chiesa di Santa Caterina dei Funari,polygon
+120854225,Santa Maria in Cosmedin,it:Basilica di Santa Maria in Cosmedin,polygon
+40981259,Chiesa di Sant'Angelo,it:Chiesa di Sant'Angelo (Milano),polygon
+1477854877,Sinagoga di Modena,it:Tempio_israelitico_di_Modena,point
+163114693,Santuario di Nostra Signora di Bonuighinu,it:Santuario di Nostra Signora di Bonu Ighinu,polygon
+-2187195,Pieve di San Giovanni Battista a Mensano,it:Pieve di San Giovanni Battista a Mensano,polygon
+138843471,San Leonardo,it:Chiesa di San Leonardo (Venezia),polygon
+204145400,Santa Dorotea,it:Chiesa di Santa Dorotea,polygon
+630952981,Chiesa di San Sebastiano,it:Chiesa di San Sebastiano (Livorno),point
+138842928,Chiesa di Santo Stefano,de:Santo Stefano (Venedig),polygon
+201835958,Santa Maria in Monterone,it:Chiesa di Santa Maria in Monterone,polygon
+123519124,Santa Maria delle Anime del Purgatorio ad Arco,http://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_delle_Anime_del_Purgatorio_ad_Arco,polygon
+-941918,Chiesa di Nostra Signora del Sacro Cuore,it:Chiesa di Nostra Signora del Sacro Cuore (Roma),polygon
+183993511,Agrippino a Forcella,it:Chiesa di Sant'Agrippino a Forcella,polygon
+1827502407,Nossa Donna,de:Nossa Donna Castelmur,point
+201319582,San Paolo dentro le Mura,it:Chiesa di San Paolo dentro le Mura,polygon
+165882137,Basilica di San Lorenzo Maggiore,it:Basilica di San Lorenzo (Milano),polygon
+174330398,San Michele,it:Chiesa di San Michele Arcangelo (Pescia),polygon
+69305769,"Chiesa Parrocchiale ""Sacro Cuore"" (Salesiani)",it:Chiesa del Sacro Cuore (Livorno),polygon
+151934243,Chiesa di Sant'Antonio,it:Chiesa di Sant'Antonio (Faenza),polygon
+23370510,Basilica di San Paolo fuori le mura,de:Sankt Paul vor den Mauern,polygon
+51368811,San Callisto,it:Chiesa di San Callisto,polygon
+27596761,Santo Stefano Maggiore,it:Basilica di Santo Stefano Maggiore,polygon
+37696585,Santa Maria del Suffragio,it:Chiesa_di_Santa_Maria_del_Suffragio_(Milano),polygon
+204154962,Santa Croce alla Lungara,it:Chiesa di Santa Croce alla Lungara,polygon
+96372442,Chiesa di San Michele Arcangelo,it:Chiesa di San Michele Arcangelo (Busto Arsizio),polygon
+142947156,San Giovanni della Malva in Trastevere,it:Chiesa di San Giovanni della Malva in Trastevere,polygon
+23856757,Chiesa di Nostra Signora Assunta e Santa Zita,it:Chiesa_di_Nostra_Signora_Assunta_e_Santa_Zita,polygon
+329675281,Eremo della Sambuca,it:Eremo di Santa Maria alla Sambuca,point
+138801509,Santa Maria della Salute,de:Santa Maria della Salute,polygon
+36685947,Santuario di Madonna d'aiuto,it:Santuario_Madonna_d'Aiuto,polygon
+97222735,Chiesa di San Giorgio,it:Chiesa di San Giorgio (Livorno),polygon
+195636322,Santa Maria Assunta,it:Chiesa di Santa Maria Assunta (Tatti),polygon
+1824788565,San Martino a Compito,http://it.wikipedia.org/wiki/Chiesa_di_San_Martino_%28Chiusi_della_Verna%29,point
+124948424,Santuario del Carmelo,it:Santuario del Carmelo,polygon
+85058383,Santuario della Madonna della Misericordia,it:Santuario di Santa Maria della Misericordia,polygon
+138843118,Chiesa di San Sebastian,de:San Sebastiano (Kirche in Venedig),polygon
+51246736,Basilica dei Ss. Bonifacio ed Alessio all’Aventino,it:Basilica dei Santi Bonifacio e Alessio,polygon
+45420079,Basilica di San Vittore al Corpo,it:Chiesa di San Vittore al Corpo (Milano),polygon
+146083671,San Pio X,it:Chiesa di San Pio X (Conegliano),polygon
+128740195,Sant’Eustachio in Campo Marzio,it:Basilica di Sant'Eustachio,polygon
+471134145,San Rocco,it:Chiesa di San Rocco (Busto Arsizio),point
+45735798,Basilica di Sant'Eufemia,it:Basilica di Sant'Eufemia (Milano),polygon
+149221845,Cappella di Maria Immacolata,it:Cappella di Maria Immacolata,polygon
+164070432,Chiesa di Santa Maria della Passione,it:Chiesa di Santa Maria della Passione,polygon
+202139362,Chiesa di San Pietro martire,it:Chiesa di San Pietro Martire (Vigevano),polygon
+-1826131,Santi Cosma e Damiano,it:Basilica dei Santi Cosma e Damiano,polygon
+174330406,Santi Stefano e Niccolao,it:Chiesa dei Santi Stefano e Niccolao,polygon
+162259412,Cattedrale di Aosta,it:Cattedrale di Aosta,polygon
+262161978,Santuario della Madonna del Divino Amore,it:Santuario della Madonna del Divino Amore,point
+146639036,Sant’ Antonia Abate,en:Castelsardo Cathedral,polygon
+186807036,Santa Maria Assunta,it:Chiesa di Santa Maria Assunta in Castellare,polygon
+36684771,Basilica di Santa Maria Assunta,it:Basilica di Santa Maria Assunta (Aquileia),polygon
+138841862,San Nicolo,en:San Nicolò al Lido,polygon
+166127273,Concattedrale dei Santi Giovanni e Paolo,it:Duomo di Ferentino,polygon
+185336124,Santa Maria del Rosario in Prati,it:Chiesa di Santa Maria del Rosario in Prati,polygon
+36687412,Duomo di Sant'Andrea Apostolo,http://it.wikipedia.org/wiki/Duomo_di_Venzone,polygon
+-418303,Chiesa di S. Anselmo all'Aventino,it:Chiesa di Sant'Anselmo all'Aventino,polygon
+114665339,Basilica di Sant'Agostino,it:Basilica di Sant'Agostino,polygon
+222990115,Chiesa di Santa Croce,it:Chiesa di Santa Croce (Alassio),polygon
+125915784,San Lorenzo in Damaso,it:Basilica di San Lorenzo in Damaso,polygon
+125241565,Chiesa di Santa Maria Annunziata,it:Chiesa di Santa Maria Annunziata a Tor de' Specchi,polygon
+138809135,Duomo,it:Duomo di Verona,polygon
+130807533,Santa Maria in Via Lata,it:Basilica di Santa Maria in Via Lata,polygon
+112820613,Chiesa di S. Andrea al Quirinale,it:Chiesa di Sant'Andrea al Quirinale,polygon
+49591745,San Bartolomeo all'Isola,it:Basilica di San Bartolomeo all'Isola,polygon
+83488964,Parrocchia San Mattia Apostolo,http://it.wikipedia.org/wiki/Chiesa_di_San_Mattia_%28Roma%29,polygon
+1670014427,Chiesa di Santa Giulia,it:Chiesa di Santa Giulia (Livorno),point
+1293125284,Pieve di San Jacopo in Acquaviva,it:Chiesa di San Jacopo in Acquaviva,point
+379726245,Sant'Agostina Pietrantoni,http://it.wikipedia.org/wiki/Chiesa_di_Sant%27Agostina_Pietrantoni,point
+138804072,Chiesa di S. Moisè,de:San Moisè,polygon
+2309814825,Chiesa S.S.Trinità,it:Chiesa della Santissima Trinità a Villa Chigi,point
+44132631,Battistero Lateranense,it:Battistero lateranense,polygon
+182544397,Chiesa della Madonna dei Lumi,it:Chiesa della Madonna dei Lumi,polygon
+201292278,San Rocco all'Augusteo,it:Chiesa di San Rocco all'Augusteo,polygon
+23227442,San Fedele,it:Chiesa di San Fedele (Milano),polygon
+138841723,Chiesa di San Samuele,de:San Samuele,polygon
+166060325,Chiesa della Santissima Annunziata,it:Chiesa della Santissima Annunziata (San Miniato),polygon
+166057442,Chiesa di Santa Caterina,it:Chiesa di Santa Caterina (San Miniato),polygon
+149541607,Santa Brigida,it:Chiesa di Santa Brigida (Roma),polygon
+-1849834,Santi Luca e Martina al Foro Romano,en:Santi Luca e Martina,polygon
+138843464,San Barnaba,it:Chiesa di San Barnaba (Venezia),polygon
+222990113,Chiesa di Sant'Ambrogio,it:Collegiata di Sant'Ambrogio (Alassio),polygon
+125831664,San Giuliano dei Fiamminghi,it:Chiesa di San Giuliano dei Fiamminghi,polygon
+-2327987,Convento di San Ludovico a Colleviti,it:Convento di San Ludovico a Colleviti,polygon
+449252276,Chiesa di San Cleto,http://it.wikipedia.org/wiki/Chiesa_di_San_Cleto,point
+49804445,Duomo,it:Duomo of Monza,polygon
+138843914,Santa Maria del Carmelo,it:Chiesa di Santa Maria dei Carmini,polygon
+52430153,Chiesa di S. Maria del Popolo,it:Basilica di Santa Maria del Popolo,polygon
+1694631008,Nuovo Santuario Divino Amore,it:Santuario della Madonna del Divino Amore,point
+42220363,Chiesa di Santa Maria Incoronata,it:Chiesa di Santa Maria Incoronata (Milano),polygon
+117744827,Santi Biagio e Carlo ai Catinari,it:Chiesa di San Carlo ai Catinari,polygon
+52134171,Basilica di S. Balbina,it:Basilica di Santa Balbina all'Aventino,polygon
+130807646,Oratorio di San Francesco Saverio,it:Oratorio di San Francesco Saverio,polygon
+575177361,San Lazzaro in Borgo,http://it.wikipedia.org/wiki/Chiesa_di_San_Lazzaro_(Roma),point
+60615619,San Pantaleo,it:Chiesa di San Pantaleo (Roma),polygon
+128740194,Sant'Ivo alla Sapienza,it:Chiesa di Sant'Ivo alla Sapienza,polygon
+32607775,Chiesa di Santa Rosa,it:Chiesa di Santa Rosa (Livorno),polygon
+162773926,Oratorio di San Cristoforo,it:Oratorio di San Cristoforo,polygon
+163126052,Chiesa di San Bartolomeo,it:Chiesa di San Bartolomeo (Sasso Pisano),polygon
+204163182,San Giuseppe alla Lungara,it:Chiesa di San Giuseppe alla Lungara,polygon
+34357303,Basilica San Francesco,it:Basilica di San Francesco,polygon
+153185255,Parrocchia San Sisto di Prè,it:Chiesa_di_San_Sisto_%28Genova%29,polygon
+45074507,Sant'Alessandro,it:Chiesa di Sant'Alessandro in Zebedia,polygon
+152634796,Chiesa dei Santi Cosma e Damiano,http://it.wikipedia.org/wiki/Chiesa_dei_Santi_Cosma_e_Damiano_%28Genova%29,polygon
+82665029,Duomo di Monreale,it:Duomo di Monreale,polygon
+102570527,San Pancrazio,it:Chiesa di San Pancrazio (Roma),polygon
+44448850,Basilica di San Babila,it:Chiesa di San Babila,polygon
+1301233568,San Lorenzo,it:Chiesa di San Lorenzo (Monterongriffoli),point
+25640152,Santa Maria in Aracoeli,it:Basilica di Santa Maria in Aracoeli,polygon
+112796242,Basilica di S. Pudenziana al Viminale,it:Basilica di Santa Pudenziana,polygon
+166399964,Chiesa di San Giovanni Decollato,it:Chiesa di San Giovanni Decollato (Nepi),polygon
+122598109,Santa Maria Addolorata a piazza Buenos Aires,it:Chiesa di Santa Maria Addolorata a piazza Buenos Aires,polygon
+138804512,Santa Maria Formosa,it:Chiesa di Santa Maria Formosa,polygon
+203944603,San Nicola da Tolentino,it:Chiesa di San Nicola da Tolentino (Roma),polygon
+193031007,Chiesa di San Simone,it:Chiesa_di_San_Simone_e_Immacolata_Concezione,polygon
+203946467,San Camillo de Lellis,it:Basilica di San Camillo de Lellis,polygon
+-2449378,San Pietro a Majella,http://it.wikipedia.org/wiki/Chiesa_di_San_Pietro_a_Majella,polygon
+71732660,Chiesa del Luogo Pio,it:Chiesa del Luogo Pio,polygon
+142023249,Basilica dei Santi Maria e Donato,it:Duomo di Murano,polygon
+138800932,Basilica di San Marco,it:Basilica di San Marco,polygon
+2140878885,Cattedrale di Santa Maria Assunta,it:Cattedrale di Santa Maria Assunta (Fano),point
+202161466,Santa Croce e San Bonaventura dei Lucchesi,it:Chiesa di Santa Croce e San Bonaventura dei Lucchesi,polygon
+44449059,Santi Gioacchino e Anna ai Monti,it:Chiesa dei Santi Gioacchino e Anna ai Monti,polygon
+52919045,San Nicola in Carcere,it:Basilica di San Nicola in Carcere,polygon
+-1576101,Santo Stefano Rotondo,it:Basilica di Santo Stefano Rotondo al Celio,polygon
+201374573,San Carlo alle Quattro Fontane,it:Chiesa di San Carlo alle Quattro Fontane,polygon
+68458706,Santuario di Macereto,http://it.wikipedia.org/wiki/Santuario_di_Macereto,polygon
+128364716,San Tommaso di Canterbury,it:Chiesa di San Tommaso di Canterbury,polygon
+33536520,Chiesa di San Liborio,http://it.wikipedia.org/wiki/Chiesa_di_San_Liborio_%28Roma%29,polygon
+2218593737,Oratorio della Madonna del Latte,it:Oratorio della Madonna del Latte,point
+203296431,Santa Margherita in Trastevere,it:Chiesa di Santa Margherita in Trastevere,polygon
+162389650,Chiesa di San Michele Arcangelo,it:Chiesa di San Michele Arcangelo (Volterra),polygon
+-1849834,Santi Luca e Martina al Foro Romano,en:Santi Luca e Martina,line
+162035005,Chiesa di S. Zaccaria,it:Chiesa di San Zaccaria,polygon
+123530536,Santa Maria in Portico in Campitelli,it:Chiesa di Santa Maria in Portico in Campitelli,polygon
+121067709,Chiesa di San Martino,it:Chiesa di San Martino (Livorno),polygon
+157852441,Basilica di San Gaudenzio,it:Basilica di San Gaudenzio,polygon
+138800508,San Giacomo,de:San Giacomo di Rialto,polygon
+203026436,Sant’Agata in Trastevere,it:Chiesa di Sant'Agata in Trastevere,polygon
+204693130,Chiesa di San Martino,it:Chiesa_di_San_Martino_(Portofino),polygon
+222683550,Cappella di San Michele,it:Cappella di San Michele (Semifonte),polygon
+201594753,Dio Padre Misericordioso,it:Chiesa di Dio Padre Misericordioso,polygon
+202319244,Santi Quaranta e San Pasquale Baylon,it:Chiesa dei Santi Quaranta Martiri e San Pasquale Baylon,polygon
+173025872,Sant'Antonino Martire,it:Chiesa di Sant'Antonino Martire (Besazio),polygon
+116084407,Collegiata di Santa Maria Assunta,it:Collegiata di Santa Maria Assunta (San Gimignano),polygon
+306027419,Madonna degli Angeli,it:Chiesa della Madonna degli Angeli (Cannuzzo),point
+89985340,San Salvatore alle Coppelle,it:Chiesa di San Salvatore alle Coppelle,polygon
+165090412,Chiesa di Santa Maria dei Miracoli presso San Celso,it:Chiesa di Santa Maria presso San Celso,polygon
+203299976,Sant’Antonio Maria Zaccaria,it:Chiesa di Sant'Antonio Maria Zaccaria,polygon
+168453654,Basilica di Sant'Andrea,it:Basilica di Sant'Andrea (Vercelli),polygon
+28988079,Duomo,it:Duomo di Livorno,polygon
+222990118,Santuario di Nostra Signora della Guardia,it:Santuario di Nostra Signora della Guardia (Alassio),polygon
+125831702,Santi Benedetto e Scolastica all’Argentina,it:Chiesa dei Santi Benedetto e Scolastica all'Argentina,polygon
+71543673,Duomo di Cefalù,it:Duomo di Cefalù,polygon
+138843459,Santa Maria di Nazareth (Gli Scalzi),it:Chiesa di Santa Maria di Nazareth (Venezia),polygon
+86250354,Basilica di S. Cecilia in Trastevere,it:Basilica di Santa Cecilia in Trastevere,polygon
+794002647,Santuario di Nostra Signora di Babilone,it:Chiesa di Santa Maria di Babilone,point
+157407146,Santa Maria ai Monti,it:Chiesa di Santa Maria ai Monti,polygon
+1193609747,,it:Chiesa (Formazza),point
+196489478,San Sebastiano,it:Chiesa di San Sebastiano (Roccatederighi),polygon
+207937540,Chiesa di San Marco,it:Chiesa_di_San_Marco_al_Molo,polygon
+1670014420,Chiesa della Madonna,it:Chiesa della Madonna (Livorno),point
+203294766,Santa Maria della Scala,it:Chiesa di Santa Maria della Scala (Roma),polygon
+-1683803,Duomo,http://it.wikipedia.org/wiki/Cattedrale_di_Napoli,polygon
+210776041,Chiesa del Suffragio,it:Chiesa di San Filippo Neri (Faenza),polygon
+163958055,Chiesa dei Santi Andrea e Lorenzo,it:Chiesa dei Santi Andrea e Lorenzo,polygon
+43873804,Chiesa di San Siro,it:Chiesa_di_San_Siro_%28Genova%29,polygon
+1232984771,Chiesa Di Sant'Elia,it:Chiesa di Sant'Elia (Viggiù),point
+-1836976,San Sebastiano al Palatino,it:Chiesa di San Sebastiano al Palatino,polygon
+167906723,Santa Maria,it:Cattedrale di Santa Maria (Alghero),polygon
+25625603,Basilica di S. Andrea della Valle,it:Basilica di Sant'Andrea della Valle,polygon
+43705671,Chiesa Santa Maria del Carmine,it:Chiesa_di_Santa_Maria_del_Carmine_(Milano),polygon
+166344805,Chiesa di Santa Maria Assunta e Sant'Anastasia,it:Duomo di Nepi,polygon
+60517009,Santa Maria in Montesanto,it:Basilica di Santa Maria in Montesanto,polygon
+162765015,Duomo,it:Duomo di Volterra,polygon
+181583476,Pieve di Santo Stefano,it:Pieve di Santo Stefano (Pisignano),polygon
+161992191,Basilica Cattedrale di Santa Maria,it:Cattedrale di Santa Maria (Anagni),polygon
+151931672,Chiesa sconsacrata di Sant'Umiltà,it:Chiesa di Sant'Umiltà,polygon
+201374574,Santi Gioacchino e Anna alle Quattro Fontane,it:Chiesa dei Santi Gioacchino e Anna alle Quattro Fontane,polygon
+22789353,Santuario Nostra Signora del Monte,it:Santuario_della_Madonna_del_Monte,polygon
+1827502402,Chiesa San Martino,de:Reformierte Kirche S. Martino (Bondo),point
+279509239,Sant’Ambrogio della Massima,it:Chiesa di Sant'Ambrogio della Massima,point
+124077476,San Giovanni Battista Decollato,it:Chiesa di San Giovanni Decollato (Roma),polygon
+158728709,Abbazia di San Giovanni in Argentella,it:Abbazia di San Giovanni in Argentella,polygon
+-422911,Basilica di San Lorenzo fuori le Mura,it:Basilica di San Lorenzo fuori le mura,polygon
+179179044,Duomo di Fossano,it:Duomo_di_Fossano,polygon
+52334111,Chiesa di S. Maria dell'Anima,it:Chiesa di Santa Maria dell'Anima,polygon
+164328871,Chiesa di Santa Maria Maggiore,it:Duomo di Civita Castellana,polygon
+62220682,Abbazia di San Magno,http://it.wikipedia.org/wiki/Abbazia_di_San_Magno,polygon
+167906722,San Michele,it:Chiesa di San Michele (Alghero),polygon
+202988409,Santa Maria in Cappella,it:Chiesa di Santa Maria in Cappella,polygon
+157852442,Cattedrale di Santa Maria Assunta - Duomo,it:Duomo di Novara,polygon
+135618144,Chiesa di S. Maria in Domnica alla Navicella,it:Basilica di Santa Maria in Domnica,polygon
+45672228,Civico Tempio di San Sebastiano,it:Tempio civico di San Sebastiano,polygon
+138841764,Chiesa di Santa Margherita,it:Chiesa di Santa Margherita (Venezia),polygon
+123530591,Sant’Angelo in Pescheria,it:Chiesa di Sant'Angelo in Pescheria,polygon
+97550082,Chiesa di Santo Stefano,it:Chiesa_di_Santo_Stefano_(Capraia_Isola),polygon
+139518763,Chiesa di Santo Stefano,it:Chiesa di Santo Stefano (Arogno),polygon
+191215489,Chiesa di San Lorenzo,it:Chiesa di San Lorenzo (Torino),polygon
+142804950,Chiesa di San Pietro in Oliveto,it:Chiesa_di_San_Pietro_in_Oliveto,polygon
+60966731,Chiesa di San Domenico,it:Chiesa di San Domenico (San Miniato),polygon
+125374926,Santa Maria del Pianto ai Catinari,it:Chiesa di Santa Maria del Pianto (Roma),polygon
+97554195,Santuario di Santa Maria di Piazza,it:Santuario di Santa Maria di Piazza,polygon
+213788436,Chiesa dei Santi Michele e Silvestro,it:Chiesa dei Santi Michele e Silvestro,polygon
+201750571,Chiesa di Ognissanti,it:Chiesa di Ognissanti (chiesa anglicana di Roma),polygon
+22945162,Battistero di San Giovanni,en:Baptistry (Pisa),polygon
+24048692,San Cristoforo sul Naviglio,it:Chiesa di San Cristoforo sul Naviglio,polygon
+1824800651,Sant'Agata alla Rocca,http://it.wikipedia.org/wiki/Chiesa_di_Sant%27Agata_alla_Rocca,point
+131997525,Chiesa di Ognissanti,it:Chiesa di Ognissanti (Padova),polygon
+138842879,San Tomà,it:Chiesa di San Tomà,polygon
+222990111,Chiesa della Santissima Annunziata,it:Chiesa della Santissima Annunziata (Alassio),polygon
+339669892,Chiesa di Sant'Andrea,it:Chiesa di Sant'Andrea (Livorno),point
+173025870,San Giuseppe,it:Chiesa-oratorio di San Giuseppe (Ligornetto),polygon
+1345310265,Monastero di San Giovanni Therestis,it:Monastero di San Giovanni Therestis,point
+102962041,San Francesco,it:Chiesa di San Francesco (Alghero),polygon
+259064789,Catacombe di Priscilla,en:Catacomb of Priscilla,point
+140736204,Chiesa di San Martino,it:Chiesa di San Martino (Viggiù),polygon
+87422360,Chiesa di San Ferdinando,it:Chiesa di San Ferdinando (Livorno),polygon
+205735092,Santa Maria dei Sette Dolori,it:Chiesa di Santa Maria dei Sette Dolori,polygon
+123971348,San Giorgio in Velabro,it:Chiesa di San Giorgio in Velabro,polygon
+1422084348,San Sepolcro,it:Chiesa di San Sepolcro (Milano),point
+151931105,Chiesa di Santa Maria Foris Portam,it:Chiesa di Santa Maria ad Nives (Faenza),polygon
+199085666,Pieve di Santa Maria Assunta,it:Pieve di Santa Maria Assunta (Prata),polygon
+40437374,Santa Maria alla Fontana,it:Chiesa di Santa Maria alla Fontana,polygon
+58665486,Chiesa del Rosario,it:Chiesa di Nostra Signora del Rosario (Livorno),polygon
+161997387,Concattedrale di San Paolo,it:Concattedrale di San Paolo,polygon
+257439073,Chiesa dei Santi Francesco e Giustina,http://it.wikipedia.org/wiki/Chiesa_dei_Santi_Francesco_e_Giustina,point
+138804284,San Giovanni Grisostomo,de:San Giovanni Crisostomo (Kirche in Venedig),polygon
+182534901,Chiesa di Sant'Agostino,it:Chiesa di Sant'Agostino (San Gimignano),polygon
+164588480,Sant’Egidio a Trastevere,it:Chiesa di Sant'Egidio (Roma),polygon
+52923505,Santa Maria della Consolazione al Foro Romano,it:Chiesa di Santa Maria della Consolazione (Roma),polygon
+161997384,Chiesa di San Francesco,it:Chiesa di San Francesco (Alatri),polygon
+162553503,Chiesa di San Regolo,it:Chiesa_di_San_Regolo,polygon
+174330425,Madonna di Pie' di Piazza,it:Chiesa della Madonna di Pie' di Piazza,polygon
+164013610,San Nicolao,it:Chiesa di San Nicolao (Milano),polygon
+22945163,Cattedrale di Santa Maria Assunta,it:Duomo di Pisa,polygon
+44200341,Chiesa russa di Sant'Ambrogio,it:Chiesa di San Vito in Pasquirolo,polygon
+-1676059,Pio Monte della Misericordia,http://it.wikipedia.org/wiki/Pio_Monte_della_Misericordia,polygon
+164078081,Chiesa di San Giovanni Battista a Varna,it:Chiesa di San Giovanni Battista a Varna,polygon
+145643576,Cappella di San Michele Arcangelo e della Visitazione di Maria,it:Cappella di San Michele Arcangelo e della Visitazione di Maria,polygon
+336133372,Benediktinerinnenkloster St. Johann,de:Benediktinerinnenkloster St. Johann,point
+1944323787,Sant'Alessio,it:Chiesa di Sant'Alessio,point
+184724852,Chiesa parrocchiale di San Cristoforo,it:Chiesa di San Cristoforo (Vercelli),polygon
+67115328,Chiesa di S. Pietro in Montorio,it:Chiesa di San Pietro in Montorio,polygon
+144843908,Chiesa di San Basilio,http://it.wikipedia.org/wiki/Chiesa_di_San_Basilio_%28Roma%29,polygon
+59305134,Basilica di San Marino,it:Basilica di San Marino,polygon
+44900361,Chiesa di Santa Maria della Pace,it:Chiesa di Santa Maria della Pace (Milano),polygon
+369821052,Certosa Serra San Bruno,it:Certosa di Serra San Bruno,point
+174022971,Duomo di Conegliano,it:Duomo_di_Conegliano,polygon
+111669473,San Omobono,it:Chiesa di Sant'Omobono,polygon
+1426827556,San Giovanni,de:San Zan Degolà,point
+139189406,Chiesa di San Giuseppe,it:Chiesa di San Giuseppe (Livorno),polygon
+195636321,San Sebastiano,it:Chiesa di San Sebastiano (Tatti),polygon
+182211430,San Cosimato,it:Chiesa di San Cosimato (Roma),polygon
+219083640,Chiesa di San Salvatore,it:Chiesa di San Salvatore (Brescia),polygon
+38523691,Duomo,it:Duomo di Mantova,polygon
+138802078,San Zulian,de:San Zulian,polygon
+138804537,Basilica di San Giorgio Maggiore,it:Basilica di San Giorgio Maggiore,polygon
+138841179,San Simeon Piccolo,de:San Simeone Piccolo,polygon
+-1821892,Abbazia di Chiaravalle,it:Abbazia di Chiaravalle,polygon
+1879705333,Santa Maria in Vivario,it:Chiesa di Santa Maria in Vivario,point
+35037741,Chiesa di San Benedetto,it:Chiesa di San Benedetto (Livorno),polygon
+219715750,San Benedetto,it:Chiesa di San Benedetto (Roma),polygon
+-2054912,Santi XII Apostoli,it:Basilica dei Santi XII Apostoli,polygon
+27755927,Santa Maria delle Grazie,it:Chiesa di Santa Maria delle Grazie (Milano),polygon
+92243813,Tempio degli Olandesi,it:Tempio della Congregazione Olandese Alemanna,polygon
+165882138,Basilica di Sant'Eustorgio,it:Basilica di Sant'Eustorgio,polygon
+174392317,Santuario di San Girolamo Emiliani,it:Santuario di San Girolamo Emiliani,polygon
+202072472,Sant’Isidoro a Capo le Case,it:Chiesa di Sant'Isidoro a Capo le Case,polygon
+75614890,Monastero di Fonte Avellana,http://it.wikipedia.org/wiki/Monastero_di_Fonte_Avellana,polygon
+78845759,Sinagoga,it:Sinagoga di Livorno,polygon
+-1821891,Abbazia di Chiaravalle,it:Abbazia di Chiaravalle,polygon
+31437077,Duomo vecchio,it:Duomo vecchio,polygon
+260759534,Santa Maria in Portuno,it:Santa Maria in Portuno,point
+157407150,San Francesco di Paola ai Monti,it:Chiesa di San Francesco di Paola (Roma),polygon
+-37717,Basílica di Sant'Ambrogio,it:Basilica di Sant'Ambrogio,polygon
+202704935,Sacro Cuore del Suffragio,it:Chiesa del Sacro Cuore del Suffragio,polygon
+60517417,San Giacomo in Augusta,it:Chiesa di San Giacomo in Augusta,polygon
+167934203,Chiesa di San Giacomo Maggiore,it:Chiesa di San Giacomo Maggiore (Reggio Emilia),polygon
+165386223,Abbazia del Santo Sepolcro e Santa Maria a Elmi,it:Abbazia del Santo Sepolcro e Santa Maria a Elmi,polygon
+138842015,San Pantalon,de:San Pantalon,polygon
+28708890,Duomo Di Modena,it:Duomo di Modena,polygon
+174330408,Santa Maria Maddalena,it:Chiesa di Santa Maria Maddalena (Pescia),polygon
+157757738,Basilica di S. Vitale,it:Basilica di San Vitale (Ravenna),polygon
+192771155,Chiesa di S. Sofia,it:Chiesa di Santa Sofia (Benevento),polygon
+43873803,Chiesa di San Filippo Neri,it:Chiesa_di_San_Filippo_Neri_%28Genova%29,polygon
+778221738,Basilica Beata Vergine della Ghiara,it:Tempio della Beata Vergine della Ghiara,point
+168882217,Chiesa di San Donato,it:Chiesa di San Donato (Chianni),polygon
+164075770,Chiesa di Cristo Re (o dei Santi Jacopo e Stefano),it:Chiesa di Cristo Re (o dei Santi Jacopo e Stefano),polygon
+125566927,Santissime Stimmate di San Francesco,it:Chiesa delle Santissime Stimmate di San Francesco,polygon
+-1892862,Santa Maria di Loreto,it:Chiesa di Santa Maria di Loreto (Roma),polygon
+86572792,Chiesa di Santa Lucia,it:Chiesa di Santa Lucia (Livorno),polygon
+157841605,Abbazia di Sant'Antimo,it: 	Abbazia di Sant'Antimo,polygon
+138843126,San Raffaele Arcangelo,"en:Angelo San Raffaele, Venice",polygon
+164859784,Chiesa di San Leonardo,it:Chiesa di San Leonardo (Lajatico),polygon
+138801661,San Giorgio dei Greci,it:Chiesa di San Giorgio dei Greci,polygon
+201294911,Santi Vitale e Compagni Martiri in Fovea,it:Basilica di San Vitale (Roma),polygon
+38000599,Basilica San Simpliciano,it:Basilica di San Simpliciano,polygon
+52335646,Chiesa di S. Luigi dei Francesi,it:Chiesa di San Luigi dei Francesi,polygon
+83486308,Chiesa Sant'Achille,http://it.wikipedia.org/wiki/Chiesa_di_Sant%27Achille,polygon
+160678450,Santa Maria di Loreto,http://it.wikipedia.org/wiki/Itri#Santa_Maria_di_Loreto,polygon
+140422246,Chiesa della Madonnina,it:Chiesa di Santa Maria nascente (Viggiù),polygon
+156320182,Santuario della Madonna Nera di Tindari,it:Tindari,polygon
+138800998,Santa Maria del Giglio o Zobenigo,de:Santa Maria Zobenigo,polygon
+52457969,Santa Maria della Vittoria,it:Chiesa di Santa Maria della Vittoria (Roma),polygon
+158277810,,it:Basilica di Sant'Apollinare Nuovo,polygon
+201482365,Basilica di Santa Maria degli Angeli e dei Martiri,it:Basilica di Santa Maria degli Angeli e dei Martiri,polygon
+143862450,San Torpete,http://it.wikipedia.org/wiki/Chiesa_di_San_Torpete,polygon
+153483298,Basilica dei Ss. Giovanni e Paolo,it:Basilica dei Santi Giovanni e Paolo (Venezia),polygon
+105755081,Pieve di Santa Maria a Chianni,it:Pieve di Santa Maria Assunta a Chianni,polygon
+203134085,Santa Maria della Luce,it:Chiesa di Santa Maria della Luce,polygon
+27626748,Duomo di Milano,it:Duomo di Milano,polygon
+138803652,Chiesa di San Martino Vescovo,it:Chiesa di San Martino (Venezia),polygon
+158760526,Chiesa Parrocchiale Santo Stefano,it:Chiesa di Santo Stefano (Viggiù),polygon
+-159201,Abbazia di San Gallo,http://it.wikipedia.org/wiki/Abbazia_di_San_Gallo_%28Moggio_Udinese%29,polygon
+195996125,Santissima Annunziata,it:Chiesa della Santissima Annunziata (Tatti),polygon
+201630119,Chiesa evangelica battista ai Monti,it:Chiesa evangelica battista ai Monti,polygon
+86902917,Chiesa Santi Pietro e Paolo,it:Chiesa dei Santi Pietro e Paolo (Livorno),polygon
+182544817,Chiesa di San Bartolo,it:Chiesa di San Bartolo,polygon
+1670014415,Chiesa armena di San Gregorio Illuminatore,it:Chiesa armena di San Gregorio Illuminatore,point
+98662525,Chiesa di Sant'Orsola,it:Chiesa di Sant'Orsola (Conegliano),polygon
+39349468,Chiesa di S. Bernardino alle Ossa,it:Chiesa di San Bernardino alle Ossa,polygon
+138843481,San Giacomo Dell'Orio,de:San Giacomo dall’Orio,polygon
+131564482,Basilica di Santa Maria Maggiore,it:Basilica di Santa Maria Maggiore,polygon
+138843633,San Geremia,it:Chiesa di San Geremia,polygon
+127586110,Santa Barbara dei Librai,it:Chiesa di Santa Barbara dei Librai,polygon
+163098858,Chiesa di San Nicola di Trullas,it:Chiesa di San Nicola di Trullas,polygon
+165386168,Chiesa di San Girolamo,it:Chiesa di San Girolamo (San Gimignano),polygon
+131235669,Santa Rita da Cascia alle Vergini,it:Chiesa di Santa Rita da Cascia alle Vergini,polygon
+25902534,Sant'Agostino,it:Basilica di Sant'Agostino,polygon
+142378731,Madonna dell'Orto,de:Madonna dell’Orto,polygon
+51368975,Basilica di S. Maria in Trastevere,it:Basilica di Santa Maria in Trastevere,polygon
+1909980758,Chiesa di Santa Maria Assunta in CIelo,it:Chiesa di Santa Maria Assunta in cielo,point
+166351031,Basilica di Sant'Elia,it:Basilica di Sant'Elia,polygon
+161896549,Chiesa del Gesù,it:Chiesa del Gesù (Frascati),polygon
+43626244,Chiesa Evangelica Valdese,it:Tempio Valdese (Milano),polygon
+77513217,Chiesa di Santa Maria del Soccorso,it:Chiesa di Santa Maria del Soccorso (Livorno),polygon
+87997288,Chiesa della Santissima Trinità,it:Chiesa della Santissima Trinità (Livorno),polygon
+124425420,Abbazia di San Galgano,it:Abbazia di San Galgano,polygon
+100050970,Chiesa Valdese,it:Chiesa valdese (Livorno),polygon
+138800840,Chiesa di S. Maria dei Miracoli,it:Chiesa di Santa Maria dei Miracoli (Venezia),polygon
+50884075,Chiesa di S. Maria della Pace,it:Chiesa di Santa Maria della Pace (Roma),polygon
+137323018,St. Magdalena - S. Maddalena,de:St. Magdalena (Bozen),polygon
+202710409,Oratorio di Santa Maria Annunziata,it:Chiesa di Santa Maria Annunziata in Borgo,polygon
+203585023,Sante Rufina e Seconda,it:Chiesa delle Sante Rufina e Seconda,polygon
+-1710625,Chiesa di S. Agnese in Agone,it:Chiesa di Sant'Agnese in Agone,polygon
+36687425,Chiesa di Sant'Antonio abate,it:Chiesa di Sant'Antonio Abate (Venzone),polygon
+138800732,Sant'Elena,it:Chiesa di Sant'Elena (Venezia),polygon
+-1892856,Basilica di San Marco,it:Basilica di San Marco Evangelista al Campidoglio,polygon
+166243077,Sant'Angelo a Nilo,it:Chiesa di Sant'Angelo a Nilo,polygon
+46103655,San Maurizio al Monastero Maggiore,it:Chiesa di San Maurizio al Monastero Maggiore,polygon
+23840659,Sant'Ignazio di Loyola a Campo Marzio,it:Chiesa di Sant'Ignazio di Loyola in Campo Marzio,polygon
+118714648,Chiesa dei Gesuati,de:Santa Maria del Rosario,polygon
+165386219,Pieve di Santa Maria Assunta a Cellole,it:Pieve di Santa Maria Assunta a Cellole,polygon
+200437978,Oratorio di Nostra Signora Assunta,it:Oratorio_di_Nostra_Signora_Assunta_(Portofino),polygon
+175937924,Istituto Lama Tzong Khapa,it:Istituto Lama Tzong Khapa,polygon
